@@ -4727,7 +4727,7 @@ This project is [MIT](./LICENSE) licensed.
 [pr-welcome-shield]: https://img.shields.io/badge/🤖/🏪_submit_agent-%E2%86%92-c4f042?labelColor=black&style=for-the-badge
 [profile-url]: https://github.com/lobehub
 [submit]: https://github.com/lobehub/lobe-chat-agents/issues/new/choose
-[vercel-deploy-link]: https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flobehub%2Flobe-chat-agents&project-name=lobe-chat-agents&repository-name=lobe-chat-agents
+[vercel-deploy-link]: https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Farkylin%2Flobe-chat-agents&project-name=lobe-chat-agents&repository-name=lobe-chat-agents
 [vercel-deploy-shield]: https://vercel.com/button
 [website-shield]: https://img.shields.io/website?down_message=offline&label=chat-agents.lobehub.com&up_message=online&url=https%3A%2F%2Fchat-agents.lobehub.com&labelColor=black&logo=vercel&style=flat-square
 [website-url]: https://lobechat.com/discover/assistants
