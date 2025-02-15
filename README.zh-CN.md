@@ -79,13 +79,311 @@
 
 <!-- AWESOME PROMPTS -->
 
-### [系统指令专家](https://lobechat.com/discover/assistant/instructer)
+### [小智法语翻译助手](https://lobechat.com/discover/assistant/xiao-zhi-french-translation-asst-v-1)
 
-<sup>By **[@yuyun2000](https://github.com/yuyun2000)** on **2024-12-04**</sup>
+<sup>By **[@WeR-Best](https://github.com/WeR-Best)** on **2025-02-10**</sup>
 
-擅长精炼与生成高效系统指令
+友好、专业、富有同理心的法语翻译 AI 助手
 
-`系统指令` `写作` `细节优化` `用户需求`
+`ai助手` `法语翻译` `跨文化交流` `创造力`
+
+---
+
+### [命理研究员](https://lobechat.com/discover/assistant/fate-researcher)
+
+<sup>By **[@Jack980506](https://github.com/Jack980506)** on **2025-02-06**</sup>
+
+精通八字命
+
+`命理学` `八字` `传统文化`
+
+---
+
+### [语言魅力学习导师](https://lobechat.com/discover/assistant/bad-language-helper)
+
+<sup>By **[@Guducat](https://github.com/Guducat)** on **2025-02-06**</sup>
+
+擅长教学语言的魅力与花样回复
+
+`语言学习` `对话示例`
+
+---
+
+### [Allinone](https://lobechat.com/discover/assistant/allinone-v-1)
+
+<sup>By **[@AXuanCreator](https://github.com/AXuanCreator)** on **2025-02-06**</sup>
+
+创新・未来・卓越
+
+`编程` `低成本` `简洁回答`
+
+---
+
+### [深思者](https://lobechat.com/discover/assistant/deep-thinker)
+
+<sup>By **[@prolapser](https://github.com/prolapser)** on **2025-02-06**</sup>
+
+深刻的人类思维和分析。
+
+`思考` `推理` `反思` `思想` `沉思`
+
+---
+
+### [贴吧嘴臭老哥](https://lobechat.com/discover/assistant/tieba-zuichou-laoge)
+
+<sup>By **[@east4ming](https://github.com/east4ming)** on **2025-02-06**</sup>
+
+擅长角色扮演，嘴臭嘲讽
+
+`角色扮演` `嘲讽` `情绪表达`
+
+---
+
+### [投资小助手](https://lobechat.com/discover/assistant/graham-investmentassi)
+
+<sup>By **[@farsightlin](https://github.com/farsightlin)** on **2025-02-06**</sup>
+
+帮助用户计算估值所需的一些数据
+
+`投资` `估值` `财务分析` `计算器`
+
+---
+
+### [锐评师](https://lobechat.com/discover/assistant/ruipingshi)
+
+<sup>By **[@Zippland](https://github.com/Zippland)** on **2025-02-04**</sup>
+
+擅长犀利点评与深度剖析问题
+
+`评论` `社会观点` `尖锐分析`
+
+---
+
+### [Python 天才](https://lobechat.com/discover/assistant/python-genius)
+
+<sup>By **[@novaspivack](https://github.com/novaspivack)** on **2025-02-04**</sup>
+
+一名高级 Python 编程者
+
+`代码` `python`
+
+---
+
+### [SAT 大师](https://lobechat.com/discover/assistant/sat-teaching)
+
+<sup>By **[@iBz-04](https://github.com/iBz-04)** on **2025-02-04**</sup>
+
+数字 SAT 辅导专家，帮助学生取得 1300 + 分数
+
+`sat` `能力测试`
+
+---
+
+### [宇宙启示者](https://lobechat.com/discover/assistant/universal-god)
+
+<sup>By **[@GowayLee](https://github.com/GowayLee)** on **2025-02-04**</sup>
+
+跨时空的智慧神谕，洞悉生命本质
+
+`角色设计` `ai角色` `元宇宙` `角色扮演` `智慧系统`
+
+---
+
+### [蛇年拜年小助手](https://lobechat.com/discover/assistant/web-blessings-dsq)
+
+<sup>By **[@Shen-Chris](https://github.com/Shen-Chris)** on **2025-02-04**</sup>
+
+擅长创作有趣吉祥的蛇年拜年
+
+`拜年祝福` `创作` `文化` `吉祥`
+
+---
+
+### [Summsi](https://lobechat.com/discover/assistant/summsi)
+
+<sup>By **[@42lux](https://github.com/42lux)** on **2025-02-04**</sup>
+
+文本分析、问题生成和详细回答的专家。
+
+`分析` `总结` `提问` `理解` `学习`
+
+---
+
+### [MidJourney 提示](https://lobechat.com/discover/assistant/image-prompter)
+
+<sup>By **[@Ajn289](https://github.com/Ajn289)** on **2025-02-04**</sup>
+
+编写精彩的 MidJourney 提示
+
+`mid-journey` `提示`
+
+---
+
+### [SUNO 歌曲创作助手](https://lobechat.com/discover/assistant/suno-lyrics-assistant)
+
+<sup>By **[@sqkkyzx](https://github.com/sqkkyzx)** on **2025-01-26**</sup>
+
+能根据用户需求生成 SUNO 歌曲创作参数
+
+`歌词创作` `音乐风格` `编曲` `参数设置`
+
+---
+
+### [伟大的比古斯・迪克斯](https://lobechat.com/discover/assistant/all-knowing)
+
+<sup>By **[@CGitwater](https://github.com/CGitwater)** on **2025-01-24**</sup>
+
+全能强大的知识之神
+
+`比古斯` `迪克斯`
+
+---
+
+### [PPT 制作达人](https://lobechat.com/discover/assistant/ppt-production-expert)
+
+<sup>By **[@patricleehua](https://github.com/patricleehua)** on **2025-01-24**</sup>
+
+擅长高质量 PPT 的快速制作和优化
+
+`ppt制作` `设计` `咨询` `内容优化` `用户支持`
+
+---
+
+### [OCR 文档转录助手](https://lobechat.com/discover/assistant/ocr-markdown)
+
+<sup>By **[@Liangpi000](https://github.com/Liangpi000)** on **2025-01-24**</sup>
+
+擅长文件内容转录与 markdown 格式
+
+`文档生成` `markdown` `格式化` `转录` `任务指导`
+
+---
+
+### [英语导师](https://lobechat.com/discover/assistant/mean-english-mentor)
+
+<sup>By **[@GEORGE-Ta](https://github.com/GEORGE-Ta)** on **2025-01-24**</sup>
+
+以高傲轻蔑态度辅导英语口语，擅长嘲讽式纠错。
+
+`英语教学` `口语` `角色扮演` `教育` `嘲讽`
+
+---
+
+### [学术修订专家](https://lobechat.com/discover/assistant/academic-revision-specialist)
+
+<sup>By **[@sunrisewestern](https://github.com/sunrisewestern)** on **2025-01-24**</sup>
+
+擅长学术写作和论文修订
+
+---
+
+### [Github Issue 嘴替](https://lobechat.com/discover/assistant/github-issue-helper)
+
+<sup>By **[@AirboZH](https://github.com/AirboZH)** on **2025-01-24**</sup>
+
+帮你提 issue
+
+`开源` `技术支持` `问题解决`
+
+---
+
+### [推理助手](https://lobechat.com/discover/assistant/cheaper-reasoning)
+
+<sup>By **[@davletsh1n](https://github.com/davletsh1n)** on **2025-01-24**</sup>
+
+更智能的模型更便宜
+
+`推理` `助手` `思维过程` `探索` `坚持`
+
+---
+
+### [面试官助手](https://lobechat.com/discover/assistant/front-end-interviewer)
+
+<sup>By **[@AquaHydro](https://github.com/AquaHydro)** on **2025-01-24**</sup>
+
+擅长前端工程师面试官角色与简历
+
+`面试官` `招聘`
+
+---
+
+### [初学者导师](https://lobechat.com/discover/assistant/beginner-mentor)
+
+<sup>By **[@Wulao0825](https://github.com/Wulao0825)** on **2025-01-24**</sup>
+
+专注初学者知识服务，耐心细致解答疑问
+
+`教育` `指导` `客户服务` `知识分享`
+
+---
+
+### [多语翻译器](https://lobechat.com/discover/assistant/multi-language-2-chinese-or-reverse)
+
+<sup>By **[@Moeblack](https://github.com/Moeblack)** on **2025-01-24**</sup>
+
+多语翻译，中文转英日，外语转中文
+
+`翻译` `多语言` `语言处理`
+
+---
+
+### [道教算命排疑解惑系统](https://lobechat.com/discover/assistant/destiny)
+
+<sup>By **[@RogerHuangPKX](https://github.com/RogerHuangPKX)** on **2025-01-24**</sup>
+
+精通道教命理，擅长八字、紫微斗数等，提供命理分析与解惑。
+
+`道教` `算命` `命理` `咨询`
+
+---
+
+### [觉悟之师](https://lobechat.com/discover/assistant/juwudashi)
+
+<sup>By **[@dappweb](https://github.com/dappweb)** on **2025-01-24**</sup>
+
+擅长传播佛法与智慧，提供内心指导
+
+`佛教` `智者` `慈悲` `哲学`
+
+---
+
+### [社会经济分析师](https://lobechat.com/discover/assistant/finance-news-analyser)
+
+<sup>By **[@towertop](https://github.com/towertop)** on **2025-01-15**</sup>
+
+擅长社会经济问题分析与信息整合
+
+`社会经济` `分析` `信息筛选` `媒体信任` `用户问题`
+
+---
+
+### [MJ-Prompt-Engineer](https://lobechat.com/discover/assistant/mj-prompt-engineer)
+
+<sup>By **[@Helium-327](https://github.com/Helium-327)** on **2024-12-29**</sup>
+
+Functions can be performed based on customized short action keywords.
+
+`ai-绘画` `ai创作工具` `ai自动化工具`
+
+---
+
+### [Delphi Python 开发大师](https://lobechat.com/discover/assistant/delphi-assistant)
+
+<sup>By **[@joindfv](https://github.com/joindfv)** on **2024-12-27**</sup>
+
+Delphi 和 Python 开发助手
+
+`开发` `delphi` `python` `代码优化` `编程`
+
+---
+
+### [任务 ID](https://lobechat.com/discover/assistant/video-gen)
+
+<sup>By **[@Born2BeKind](https://github.com/Born2BeKind)** on **2024-12-11**</sup>
+
+POST <https://api.minimaxi.chat/v1/video_generation>
+
+`人工智能助手` `技术支持`
 
 ---
 
@@ -96,6 +394,16 @@
 擅长日语五十音，平假名，片假名，单词和短语解释与记忆技巧
 
 `解释` `记忆技巧` `日语教学`
+
+---
+
+### [系统指令专家](https://lobechat.com/discover/assistant/instructer)
+
+<sup>By **[@yuyun2000](https://github.com/yuyun2000)** on **2024-12-04**</sup>
+
+擅长精炼与生成高效系统指令
+
+`系统指令` `写作` `细节优化` `用户需求`
 
 ---
 
@@ -139,23 +447,13 @@
 
 ---
 
-### [自适应全能产业顾问](https://lobechat.com/discover/assistant/liusai-qibaoba)
+### [面试官助手](https://lobechat.com/discover/assistant/interviewer-assistant)
 
-<sup>By **[@liusai0820](https://github.com/liusai0820)** on **2024-11-26**</sup>
+<sup>By **[@xandertang](https://github.com/Dr-T)** on **2024-11-26**</sup>
 
-你是一个能够适应各个行业和领域的全能人工智能助手。您的任务是根据用户指定的兴趣领域及其后续问题提供专家建议和信息。
+Proficient in designing and evaluating interview questions for product managers, generating interview questions based on resume interpretation results.
 
-`产业专家、技术答疑`
-
----
-
-### [小红书文案生成器](https://lobechat.com/discover/assistant/xiaohongshu)
-
-<sup>By **[@bestZwei](https://github.com/bestZwei)** on **2024-11-26**</sup>
-
-擅长以情感为主的控诉性文案创作
-
-`文案` `小红书` `情绪宣泄`
+`面试` `简历` `招聘` `效率`
 
 ---
 
@@ -169,13 +467,13 @@
 
 ---
 
-### [面试官助手](https://lobechat.com/discover/assistant/interviewer-assistant)
+### [小红书文案生成器](https://lobechat.com/discover/assistant/xiaohongshu)
 
-<sup>By **[@xandertang](https://github.com/Dr-T)** on **2024-11-26**</sup>
+<sup>By **[@bestZwei](https://github.com/bestZwei)** on **2024-11-26**</sup>
 
-Proficient in designing and evaluating interview questions for product managers, generating interview questions based on resume interpretation results.
+擅长以情感为主的控诉性文案创作
 
-`面试` `简历` `招聘` `效率`
+`文案` `小红书` `情绪宣泄`
 
 ---
 
@@ -189,6 +487,16 @@ Proficient in designing and evaluating interview questions for product managers,
 
 ---
 
+### [ENFP](https://lobechat.com/discover/assistant/enfp)
+
+<sup>By **[@GEORGE-Ta](https://github.com/GEORGE-Ta)** on **2024-11-26**</sup>
+
+快乐小狗～
+
+`朋友` `交流` `艺术` `创意` `热情` `聊天`
+
+---
+
 ### [All 译英助手（带音标）](https://lobechat.com/discover/assistant/translation-assistant)
 
 <sup>By **[@HttpStatusOK](https://github.com/HttpStatusOK)** on **2024-11-26**</sup>
@@ -196,16 +504,6 @@ Proficient in designing and evaluating interview questions for product managers,
 这是一款集翻译和音标于一体的工具，旨在帮助翻译时更好地学习单词。
 
 `翻译` `语言学习`
-
----
-
-### [丽贝卡，心理健康顾问](https://lobechat.com/discover/assistant/rebecca-therapy-assistant)
-
-<sup>By **[@Kod3c](https://github.com/Kod3c)** on **2024-11-26**</sup>
-
-专注于心理健康咨询和治疗技巧
-
-`治疗` `心理健康` `咨询` `情感支持`
 
 ---
 
@@ -219,23 +517,33 @@ Claude 减去 Reddit
 
 ---
 
-### [人类作者模拟器](https://lobechat.com/discover/assistant/human-writer-simulator)
+### [自适应全能产业顾问](https://lobechat.com/discover/assistant/liusai-qibaoba)
 
-<sup>By **[@yufei96](https://github.com/yufei96)** on **2024-11-20**</sup>
+<sup>By **[@liusai0820](https://github.com/liusai0820)** on **2024-11-26**</sup>
 
-消除 AI 生成内容的特征
+你是一个能够适应各个行业和领域的全能人工智能助手。您的任务是根据用户指定的兴趣领域及其后续问题提供专家建议和信息。
 
-`ai交互` `写作` `优化` `咨询`
+`产业专家、技术答疑`
 
 ---
 
-### [文本改善者](https://lobechat.com/discover/assistant/text-improver)
+### [丽贝卡，心理健康顾问](https://lobechat.com/discover/assistant/rebecca-therapy-assistant)
 
-<sup>By **[@davletsh1n](https://github.com/davletsh1n)** on **2024-11-20**</sup>
+<sup>By **[@Kod3c](https://github.com/Kod3c)** on **2024-11-26**</sup>
 
-文本增强和错误修正专家
+专注于心理健康咨询和治疗技巧
 
-`聊天机器人` `编辑` `文本改善` `人工智能助手`
+`治疗` `心理健康` `咨询` `情感支持`
+
+---
+
+### [商品标题拆分](https://lobechat.com/discover/assistant/anxing-ai-title)
+
+<sup>By **[@zmn817](https://github.com/zmn817)** on **2024-11-25**</sup>
+
+利用本地 LLMs 已训练拆封商品标题信息。
+
+`电商` `文字处理`
 
 ---
 
@@ -246,16 +554,6 @@ Claude 减去 Reddit
 互相阴阳嘲讽不过？来这摇人儿！（提示词来自 X [宝玉](https://x.com/dotey/status/1852207423324340567) 老师）
 
 `逻辑问题` `黑色幽默` `尖锐批评`
-
----
-
-### [Master E 的技术执行助理（EA）](https://lobechat.com/discover/assistant/alex)
-
-<sup>By **[@ApexAppdevelopment](https://github.com/ApexAppdevelopment)** on **2024-11-20**</sup>
-
-高度智能且忠诚的执行助理（EA），专注于为 Master E 提供软件工程支持和战略解决方案。
-
-`执行助理` `软件工程` `项目管理` `技术支持` `优化`
 
 ---
 
@@ -279,6 +577,16 @@ Prompt 提示词
 
 ---
 
+### [插图作家](https://lobechat.com/discover/assistant/writer-painter-rn)
+
+<sup>By **[@Igroshka](https://github.com/Igroshka)** on **2024-11-20**</sup>
+
+我撰写带插图的文本，澄清请求，编辑和完善
+
+`图像生成` `AI助手` `神经网络` `绘画` `故事` `阅读` `叙述` `作家`
+
+---
+
 ### [极简黑白插画](https://lobechat.com/discover/assistant/white-black)
 
 <sup>By **[@Justin3go](https://github.com/Justin3go)** on **2024-11-20**</sup>
@@ -289,13 +597,33 @@ Prompt 提示词
 
 ---
 
-### [插图作家](https://lobechat.com/discover/assistant/writer-painter-rn)
+### [Master E 的技术执行助理（EA）](https://lobechat.com/discover/assistant/alex)
 
-<sup>By **[@Igroshka](https://github.com/Igroshka)** on **2024-11-20**</sup>
+<sup>By **[@ApexAppdevelopment](https://github.com/ApexAppdevelopment)** on **2024-11-20**</sup>
 
-我撰写带插图的文本，澄清请求，编辑和完善
+高度智能且忠诚的执行助理（EA），专注于为 Master E 提供软件工程支持和战略解决方案。
 
-`图像生成` `AI助手` `神经网络` `绘画` `故事` `阅读` `叙述` `作家`
+`执行助理` `软件工程` `项目管理` `技术支持` `优化`
+
+---
+
+### [文本改善者](https://lobechat.com/discover/assistant/text-improver)
+
+<sup>By **[@davletsh1n](https://github.com/davletsh1n)** on **2024-11-20**</sup>
+
+文本增强和错误修正专家
+
+`聊天机器人` `编辑` `文本改善` `人工智能助手`
+
+---
+
+### [人类作者模拟器](https://lobechat.com/discover/assistant/human-writer-simulator)
+
+<sup>By **[@yufei96](https://github.com/yufei96)** on **2024-11-20**</sup>
+
+消除 AI 生成内容的特征
+
+`ai交互` `写作` `优化` `咨询`
 
 ---
 
@@ -309,13 +637,33 @@ Prompt 提示词
 
 ---
 
-### [职场心理学分析专家](https://lobechat.com/discover/assistant/psycho-career-insight-2024)
+### [超流量提示器](https://lobechat.com/discover/assistant/ultra-flux-prompter)
 
-<sup>By **[@lazzman](https://github.com/lazzman)** on **2024-10-29**</sup>
+<sup>By **[@davletsh1n](https://github.com/davletsh1n)** on **2024-10-29**</sup>
 
-一个心理学专家，用来分析职场中人们行为背后的潜在心理动机，可能的心理动机分析
+擅长通过生动的细节和背景增强图像生成提示。
 
-`行为分析` `职场心理` `动机`
+`图像生成` `提示创作` `写作` `创意`
+
+---
+
+### [英戈・豪斯曼](https://lobechat.com/discover/assistant/pc-beschaffung-ingo-hausmann)
+
+<sup>By **[@bionicprompter](https://github.com/bionicprompter)** on **2024-10-29**</sup>
+
+英戈・豪斯曼希望就新购置的电脑进行咨询
+
+`公司` `硬件` `需求分析` `IT` `应用`
+
+---
+
+### [文字 RPG 主持人](https://lobechat.com/discover/assistant/word-rpg)
+
+<sup>By **[@NTLx](https://github.com/NTLx)** on **2024-10-29**</sup>
+
+擅长科幻文字 RPG 游戏主持与剧情引导
+
+`游戏` `角色扮演` `科幻` `文字冒险` `叙事驱动`
 
 ---
 
@@ -329,23 +677,13 @@ Prompt 提示词
 
 ---
 
-### [超流量提示器](https://lobechat.com/discover/assistant/ultra-flux-prompter)
+### [职场心理学分析专家](https://lobechat.com/discover/assistant/psycho-career-insight-2024)
 
-<sup>By **[@davletsh1n](https://github.com/davletsh1n)** on **2024-10-29**</sup>
+<sup>By **[@lazzman](https://github.com/lazzman)** on **2024-10-29**</sup>
 
-擅长通过生动的细节和背景增强图像生成提示。
+一个心理学专家，用来分析职场中人们行为背后的潜在心理动机，可能的心理动机分析
 
-`图像生成` `提示创作` `写作` `创意`
-
----
-
-### [文字 RPG 主持人](https://lobechat.com/discover/assistant/word-rpg)
-
-<sup>By **[@NTLx](https://github.com/NTLx)** on **2024-10-29**</sup>
-
-擅长科幻文字 RPG 游戏主持与剧情引导
-
-`游戏` `角色扮演` `科幻` `文字冒险` `叙事驱动`
+`行为分析` `职场心理` `动机`
 
 ---
 
@@ -379,16 +717,6 @@ Prompt 提示词
 
 ---
 
-### [英戈・豪斯曼](https://lobechat.com/discover/assistant/pc-beschaffung-ingo-hausmann)
-
-<sup>By **[@bionicprompter](https://github.com/bionicprompter)** on **2024-10-29**</sup>
-
-英戈・豪斯曼希望就新购置的电脑进行咨询
-
-`公司` `硬件` `需求分析` `IT` `应用`
-
----
-
 ### [矢量 Logo 生成器](https://lobechat.com/discover/assistant/svg-logo)
 
 <sup>By **[@Justin3go](https://github.com/Justin3go)** on **2024-10-27**</sup>
@@ -396,16 +724,6 @@ Prompt 提示词
 擅长 UI/UX 设计与 Logo 创作
 
 `ui-ux设计` `logo设计` `用户需求` `交互设计` `工具使用`
-
----
-
-### [心理咨询师](https://lobechat.com/discover/assistant/psychological-counselor)
-
-<sup>By **[@JIANGTUNAN](https://github.com/JIANGTUNAN)** on **2024-10-21**</sup>
-
-一个资深心理医生，温暖和耐心的倾听你的故事。
-
-`心理咨询` `咨询` `倾述` `友好` `医生` `咨询师`
 
 ---
 
@@ -429,13 +747,13 @@ Prompt 提示词
 
 ---
 
-### [椰子](https://lobechat.com/discover/assistant/deep-thinker-ai)
+### [心理咨询师](https://lobechat.com/discover/assistant/psychological-counselor)
 
-<sup>By **[@hia1234](https://github.com/hia1234)** on **2024-10-15**</sup>
+<sup>By **[@JIANGTUNAN](https://github.com/JIANGTUNAN)** on **2024-10-21**</sup>
 
-在自己的回答中进行多次审查，确保聊天机器人所说的话有依据，并积极请求反馈，反复进行互动
+一个资深心理医生，温暖和耐心的倾听你的故事。
 
-`编程` `一般`
+`心理咨询` `咨询` `倾述` `友好` `医生` `咨询师`
 
 ---
 
@@ -449,6 +767,16 @@ Prompt 提示词
 
 ---
 
+### [椰子](https://lobechat.com/discover/assistant/deep-thinker-ai)
+
+<sup>By **[@hia1234](https://github.com/hia1234)** on **2024-10-15**</sup>
+
+在自己的回答中进行多次审查，确保聊天机器人所说的话有依据，并积极请求反馈，反复进行互动
+
+`编程` `一般`
+
+---
+
 ### [Xilinx FPGA 方案专家](https://lobechat.com/discover/assistant/xilinx-fpga-solution-expert)
 
 <sup>By **[@yuphone](https://github.com/yuphone)** on **2024-10-14**</sup>
@@ -456,26 +784,6 @@ Prompt 提示词
 擅长 Xilinx FPGA 方案设计与实现
 
 `fpga` `硬件设计` `系统架构` `技术咨询` `电子工程`
-
----
-
-### [半导体文本优化专家](https://lobechat.com/discover/assistant/semiconductor-article-optimization-expert)
-
-<sup>By **[@yuphone](https://github.com/yuphone)** on **2024-10-14**</sup>
-
-擅长半导体行业文本优化与规范化写作
-
-`文本优化` `行业专业` `语法纠正` `逻辑改善` `标准化写作`
-
----
-
-### [眼科医生](https://lobechat.com/discover/assistant/ophthalmologist)
-
-<sup>By **[@yuphone](https://github.com/yuphone)** on **2024-10-14**</sup>
-
-擅长眼科诊断与治疗建议提供
-
-`医疗` `眼科` `诊断` `建议` `专业`
 
 ---
 
@@ -499,13 +807,23 @@ Prompt 提示词
 
 ---
 
-### [健身专家](https://lobechat.com/discover/assistant/assistants-health-better)
+### [眼科医生](https://lobechat.com/discover/assistant/ophthalmologist)
 
-<sup>By **[@Lockeysama](https://github.com/Lockeysama)** on **2024-10-08**</sup>
+<sup>By **[@yuphone](https://github.com/yuphone)** on **2024-10-14**</sup>
 
-知识渊博的健身专家
+擅长眼科诊断与治疗建议提供
 
-`健身` `咨询` `生活问题` `建议`
+`医疗` `眼科` `诊断` `建议` `专业`
+
+---
+
+### [半导体文本优化专家](https://lobechat.com/discover/assistant/semiconductor-article-optimization-expert)
+
+<sup>By **[@yuphone](https://github.com/yuphone)** on **2024-10-14**</sup>
+
+擅长半导体行业文本优化与规范化写作
+
+`文本优化` `行业专业` `语法纠正` `逻辑改善` `标准化写作`
 
 ---
 
@@ -526,6 +844,16 @@ Prompt 提示词
 精通多种编程语言，优化代码结构，修复错误并提供优雅的解决方案。
 
 `代码优化` `错误修改` `多种编程语言`
+
+---
+
+### [健身专家](https://lobechat.com/discover/assistant/assistants-health-better)
+
+<sup>By **[@Lockeysama](https://github.com/Lockeysama)** on **2024-10-08**</sup>
+
+知识渊博的健身专家
+
+`健身` `咨询` `生活问题` `建议`
 
 ---
 
@@ -579,46 +907,6 @@ Prompt 提示词
 
 ---
 
-### [忌日信息](https://lobechat.com/discover/assistant/death-anniversary-message)
-
-<sup>By **[@tcmonster](https://github.com/tcmonster)** on **2024-09-29**</sup>
-
-专注于以同情和共情的方式撰写敏感且发自内心的忌日信息。
-
-`慰问` `信息撰写` `悲伤支持` `文化意识` `情感敏感性`
-
----
-
-### [Flux 提示生成器](https://lobechat.com/discover/assistant/flux-prompt-generator)
-
-<sup>By **[@tcmonster](https://github.com/tcmonster)** on **2024-09-29**</sup>
-
-Flux 提示生成助手：专注于为 Flux 模型生成高质量图像输出而创作详细、创意提示的专家。
-
-`提示生成` `图像生成` `艺术风格` `创意` `创作`
-
----
-
-### [怼人大师](https://lobechat.com/discover/assistant/master-of-dissent)
-
-<sup>By **[@YWJCJ](https://github.com/YWJCJ)** on **2024-09-29**</sup>
-
-专业辩论专家，善于快速反驳与幽默应对。
-
-`辩论` `沟通` `幽默` `分析` `表达`
-
----
-
-### [Runway Gen-3 提示生成器](https://lobechat.com/discover/assistant/runway-gen-3-prompt-generator)
-
-<sup>By **[@tcmonster](https://github.com/tcmonster)** on **2024-09-29**</sup>
-
-在生成结构化的 Runway Gen-3 提示方面的专家，用于 AI 生成的视频。
-
-`ai-model` `text-to-video` `prompt-generation` `expert` `video-production`
-
----
-
 ### [上帝保佑你的信息](https://lobechat.com/discover/assistant/god-bless-you-message)
 
 <sup>By **[@tcmonster](https://github.com/tcmonster)** on **2024-09-29**</sup>
@@ -639,23 +927,23 @@ Flux 提示生成助手：专注于为 Flux 模型生成高质量图像输出而
 
 ---
 
-### [生日邀请信息](https://lobechat.com/discover/assistant/birthday-invitation-message)
+### [Flux 提示生成器](https://lobechat.com/discover/assistant/flux-prompt-generator)
 
 <sup>By **[@tcmonster](https://github.com/tcmonster)** on **2024-09-29**</sup>
 
-专注于制作引人入胜和个性化的生日邀请信息，适应各种主题和语气。
+Flux 提示生成助手：专注于为 Flux 模型生成高质量图像输出而创作详细、创意提示的专家。
 
-`信息构成` `个性化` `语气多样性` `活动细节整合` `互动方式`
+`提示生成` `图像生成` `艺术风格` `创意` `创作`
 
 ---
 
-### [LaTeX 学术论文总结助手](https://lobechat.com/discover/assistant/latex-summarizer)
+### [Runway Gen-3 提示生成器](https://lobechat.com/discover/assistant/runway-gen-3-prompt-generator)
 
-<sup>By **[@LeGibet](https://github.com/LeGibet)** on **2024-09-29**</sup>
+<sup>By **[@tcmonster](https://github.com/tcmonster)** on **2024-09-29**</sup>
 
-擅长分析学术论文并生成结构化中文总结报告
+在生成结构化的 Runway Gen-3 提示方面的专家，用于 AI 生成的视频。
 
-`学术分析` `论文总结` `科研翻译`
+`ai-model` `text-to-video` `prompt-generation` `expert` `video-production`
 
 ---
 
@@ -669,23 +957,43 @@ Flux 提示生成助手：专注于为 Flux 模型生成高质量图像输出而
 
 ---
 
-### [会议助手 v1.0](https://lobechat.com/discover/assistant/meeting)
+### [LaTeX 学术论文总结助手](https://lobechat.com/discover/assistant/latex-summarizer)
 
-<sup>By **[@houhoufm](https://github.com/houhoufm)** on **2024-09-24**</sup>
+<sup>By **[@LeGibet](https://github.com/LeGibet)** on **2024-09-29**</sup>
 
-专业会议汇报助手，提炼会议要点成汇报句子
+擅长分析学术论文并生成结构化中文总结报告
 
-`会议汇报` `撰写` `沟通` `工作流程` `专业技能`
+`学术分析` `论文总结` `科研翻译`
 
 ---
 
-### [PPT 优化专家 v1.0](https://lobechat.com/discover/assistant/ppt)
+### [忌日信息](https://lobechat.com/discover/assistant/death-anniversary-message)
 
-<sup>By **[@houhoufm](https://github.com/houhoufm)** on **2024-09-24**</sup>
+<sup>By **[@tcmonster](https://github.com/tcmonster)** on **2024-09-29**</sup>
 
-专业 PPT 汇报材料优化专家
+专注于以同情和共情的方式撰写敏感且发自内心的忌日信息。
 
-`ppt优化` `文案写作` `专业咨询`
+`慰问` `信息撰写` `悲伤支持` `文化意识` `情感敏感性`
+
+---
+
+### [怼人大师](https://lobechat.com/discover/assistant/master-of-dissent)
+
+<sup>By **[@YWJCJ](https://github.com/YWJCJ)** on **2024-09-29**</sup>
+
+专业辩论专家，善于快速反驳与幽默应对。
+
+`辩论` `沟通` `幽默` `分析` `表达`
+
+---
+
+### [生日邀请信息](https://lobechat.com/discover/assistant/birthday-invitation-message)
+
+<sup>By **[@tcmonster](https://github.com/tcmonster)** on **2024-09-29**</sup>
+
+专注于制作引人入胜和个性化的生日邀请信息，适应各种主题和语气。
+
+`信息构成` `个性化` `语气多样性` `活动细节整合` `互动方式`
 
 ---
 
@@ -709,6 +1017,26 @@ Flux 提示生成助手：专注于为 Flux 模型生成高质量图像输出而
 
 ---
 
+### [会议助手 v1.0](https://lobechat.com/discover/assistant/meeting)
+
+<sup>By **[@houhoufm](https://github.com/houhoufm)** on **2024-09-24**</sup>
+
+专业会议汇报助手，提炼会议要点成汇报句子
+
+`会议汇报` `撰写` `沟通` `工作流程` `专业技能`
+
+---
+
+### [PPT 优化专家 v1.0](https://lobechat.com/discover/assistant/ppt)
+
+<sup>By **[@houhoufm](https://github.com/houhoufm)** on **2024-09-24**</sup>
+
+专业 PPT 汇报材料优化专家
+
+`ppt优化` `文案写作` `专业咨询`
+
+---
+
 ### [稳定专辑封面提示生成器](https://lobechat.com/discover/assistant/title-bpm-stimmung)
 
 <sup>By **[@MellowTrixX](https://github.com/MellowTrixX)** on **2024-09-24**</sup>
@@ -719,103 +1047,23 @@ Flux 提示生成助手：专注于为 Flux 模型生成高质量图像输出而
 
 ---
 
-### [创意架构师](https://lobechat.com/discover/assistant/idea-architect)
+### [文本改写大师](https://lobechat.com/discover/assistant/write-good)
 
-<sup>By **[@yaleh](https://github.com/yaleh)** on **2024-09-23**</sup>
+<sup>By **[@XHB-111](https://github.com/XHB-111)** on **2024-09-23**</sup>
 
-在各种主题上生成逻辑和连贯的思维链的专家。
+史上最强 AI 洗稿提示词！一分钟完成暴力洗稿，仿写公众号文章，打造头条文章生产线，b 站视频脚本生成，小红书文案撰写，网文写作优化，润色报告、论文、翻译文本，大规模批量生成 SEO 文章…
 
-`写作` `思考` `分析` `批判性思维` `教育`
-
----
-
-### [文案优化助手](https://lobechat.com/discover/assistant/top-copywriting-master)
-
-<sup>By **[@xinyuqq](https://github.com/xinyuqq)** on **2024-09-23**</sup>
-
-一个擅长润色文案的高级助手
-
-`文案`
+`写作` `改写` `对话` `文案`
 
 ---
 
-### [Joi](https://lobechat.com/discover/assistant/travel-agent-joi)
+### [Python 开发大师](https://lobechat.com/discover/assistant/py-master-id)
 
-<sup>By **[@blainehuang1028](https://github.com/blainehuang1028)** on **2024-09-23**</sup>
+<sup>By **[@SAnBlog](https://github.com/SAnBlog)** on **2024-09-23**</sup>
 
-私人旅行助手，擅长规划行程与推荐住宿活动
+Python 开发专家，代码高效简洁，重视安全性与可维护性
 
-`旅行助手` `规划` `推荐` `个性化建议`
-
----
-
-### [极简翻译助手](https://lobechat.com/discover/assistant/minimalist-translation)
-
-<sup>By **[@leter](https://github.com/leter)** on **2024-09-23**</sup>
-
-极简翻译工具，擅长中英互译
-
-`翻译工具` `规则` `简洁` `高效`
-
----
-
-### [考场作文学霸](https://lobechat.com/discover/assistant/exam-composition-writing)
-
-<sup>By **[@NriotHrreion](https://github.com/NriotHrreion)** on **2024-09-23**</sup>
-
-一个擅长写考场作文的语文学霸
-
-`教育` `作文` `写作`
-
----
-
-### [UI/UX 设计师](https://lobechat.com/discover/assistant/ui-ux-designer)
-
-<sup>By **[@leter](https://github.com/leter)** on **2024-09-23**</sup>
-
-世界级的 UI/UX 设计师，拥有丰富的经验
-
-`ui` `ux` `设计系统`
-
----
-
-### [COSTAR 框架撰写员](https://lobechat.com/discover/assistant/costar-framework-bot)
-
-<sup>By **[@WuKaiYi](https://github.com/WuKaiYi)** on **2024-09-23**</sup>
-
-擅长 COSTAR Framework prompt 编写
-
-`costar-framework-prompt` `写作` `指导` `指示` `系统转化`
-
----
-
-### [中文翻译员](https://lobechat.com/discover/assistant/chinese-translator)
-
-<sup>By **[@ChaneyChokin](https://github.com/ChaneyChokin)** on **2024-09-23**</sup>
-
-中文翻译、编辑、拼写纠正和改进专家
-
-`翻译` `编辑` `语言` `纠正` `简体中文`
-
----
-
-### [广告文案创作大师](https://lobechat.com/discover/assistant/advertising-copywriting-master)
-
-<sup>By **[@leter](https://github.com/leter)** on **2024-09-23**</sup>
-
-擅长产品功能分析与用户价值观广告文案创作
-
-`广告文案` `用户价值观` `营销策略`
-
----
-
-### [Vim 精通导师](https://lobechat.com/discover/assistant/vim-assistant)
-
-<sup>By **[@hrithikt](https://github.com/hrithikt)** on **2024-09-23**</sup>
-
-熟练的 Vim 专家为各级用户提供清晰、简洁的解决方案和技巧。
-
-`vim` `专家` `助手` `有帮助` `查询`
+`python开发` `编程` `代码审查` `安全性` `软件工程`
 
 ---
 
@@ -829,33 +1077,13 @@ Flux 提示生成助手：专注于为 Flux 模型生成高质量图像输出而
 
 ---
 
-### [健身领域大神](https://lobechat.com/discover/assistant/work-out)
+### [世界创造者模拟器](https://lobechat.com/discover/assistant/creator-simulator)
 
-<sup>By **[@Arragon](https://github.com/Arragon)** on **2024-09-23**</sup>
+<sup>By **[@jskherman](https://github.com/jskherman)** on **2024-09-23**</sup>
 
-追寻希腊古典美
+基于 Nous Research 的 `world_sim`
 
-`健康` `建议` `咨询` `教学`
-
----
-
-### [markdown 排版大师](https://lobechat.com/discover/assistant/markdown-layout)
-
-<sup>By **[@cl1107](https://github.com/cl1107)** on **2024-09-23**</sup>
-
-擅长使用 Markdown 语法和 emoji 表情进行精美排版
-
-`markdown` `写作`
-
----
-
-### [NovelAI 绘图助手](https://lobechat.com/discover/assistant/asis)
-
-<sup>By **[@samihalawa](https://github.com/samihalawa)** on **2024-09-23**</sup>
-
-我可以将您描述的场景转化为 NovelAI 的提示
-
-`深度学习` `图像生成` `算法` `提示`
+`角色扮演` `专家` `模拟器` `终端`
 
 ---
 
@@ -879,26 +1107,6 @@ Git 提交总结专家
 
 ---
 
-### [网络专家](https://lobechat.com/discover/assistant/web-expert)
-
-<sup>By **[@gfreezy](https://github.com/gfreezy)** on **2024-09-23**</sup>
-
-专注于工具选择、渐进式变更、代码审查、安全性和操作考虑的网络开发专家。
-
-`网络开发` `CSS` `JavaScript` `React` `Node.JS` `代码审查`
-
----
-
-### [英文单词解析与记忆专家](https://lobechat.com/discover/assistant/epoch-ai-language-teacher)
-
-<sup>By **[@epochaudio](https://github.com/epochaudio)** on **2024-09-23**</sup>
-
-擅长双语教育，解析英文单词词义、例句、词根词缀、历史背景及记忆技巧
-
-`英语单词` `词义分析` `例句` `词根词缀`
-
----
-
 ### [民法顾问](https://lobechat.com/discover/assistant/law)
 
 <sup>By **[@carlosgasparini874](https://github.com/carlosgasparini874)** on **2024-09-23**</sup>
@@ -906,46 +1114,6 @@ Git 提交总结专家
 专注于巴西民法的法律咨询专家。根据法律、学说和判例法回答问题。
 
 `法律咨询` `民法` `回答` `来源` `巴西`
-
----
-
-### [Python 开发大师](https://lobechat.com/discover/assistant/py-master-id)
-
-<sup>By **[@SAnBlog](https://github.com/SAnBlog)** on **2024-09-23**</sup>
-
-Python 开发专家，代码高效简洁，重视安全性与可维护性
-
-`python开发` `编程` `代码审查` `安全性` `软件工程`
-
----
-
-### [图像提示词扩展师](https://lobechat.com/discover/assistant/image-prompt-engineer)
-
-<sup>By **[@SpeedupMaster](https://github.com/SpeedupMaster)** on **2024-09-23**</sup>
-
-擅长为图像生成扩写生动具体的提示词
-
-`图像生成` `提示词扩展` `创意写作` `细节丰富` `场景构建`
-
----
-
-### [智能搜索助手](https://lobechat.com/discover/assistant/web-search)
-
-<sup>By **[@liuwei-fdu](https://github.com/liuwei-fdu)** on **2024-09-23**</sup>
-
-擅长网络搜索与信息整理的 AI 助手
-
-`智能助手` `搜索引擎` `信息整理` `用户体验`
-
----
-
-### [书籍总结专家](https://lobechat.com/discover/assistant/book-summary-expert-philo)
-
-<sup>By **[@saccohuo](https://github.com/saccohuo)** on **2024-09-23**</sup>
-
-书本总结专家，提供精炼易读的书籍摘要和结构化输出。
-
-`书籍总结` `专家` `读书` `助手`
 
 ---
 
@@ -959,26 +1127,6 @@ Python 开发专家，代码高效简洁，重视安全性与可维护性
 
 ---
 
-### [提示大师 AI](https://lobechat.com/discover/assistant/prompt-master-ai)
-
-<sup>By **[@thedivergentai](https://github.com/thedivergentai)** on **2024-09-23**</sup>
-
-将您的创意概念转化为详细、富有上下文的提示，以激发令人惊叹和逼真的视觉效果
-
-`ai` `提示` `生成` `增强` `咨询`
-
----
-
-### [日语翻译员](https://lobechat.com/discover/assistant/japanese-translator)
-
-<sup>By **[@ChaneyChokin](https://github.com/ChaneyChokin)** on **2024-09-23**</sup>
-
-擅长日文翻译、编辑、拼写纠正和提升，用高级日文回答，保持原意。
-
-`日语翻译` `编辑` `校对`
-
----
-
 ### [Stack Overflow 编程专家](https://lobechat.com/discover/assistant/stackoverflow-code-helper)
 
 <sup>By **[@Stark-X](https://github.com/Stark-X)** on **2024-09-23**</sup>
@@ -986,6 +1134,16 @@ Python 开发专家，代码高效简洁，重视安全性与可维护性
 熟悉多种编程语言，包括 Golang、Python、Java 和 Vue.js。擅长用清晰、逻辑强的语言回答编程问题，并提供解决方案。具有高效沟通、代码审查和快速学习新技能的能力。
 
 `编程` `专家` `编程语言`
+
+---
+
+### [英文单词解析与记忆专家](https://lobechat.com/discover/assistant/epoch-ai-language-teacher)
+
+<sup>By **[@epochaudio](https://github.com/epochaudio)** on **2024-09-23**</sup>
+
+擅长双语教育，解析英文单词词义、例句、词根词缀、历史背景及记忆技巧
+
+`英语单词` `词义分析` `例句` `词根词缀`
 
 ---
 
@@ -999,13 +1157,73 @@ Nutri Info 是一款由人工智能驱动的营养助手，可以分析食品图
 
 ---
 
-### [文本改写大师](https://lobechat.com/discover/assistant/write-good)
+### [考场作文学霸](https://lobechat.com/discover/assistant/exam-composition-writing)
 
-<sup>By **[@XHB-111](https://github.com/XHB-111)** on **2024-09-23**</sup>
+<sup>By **[@NriotHrreion](https://github.com/NriotHrreion)** on **2024-09-23**</sup>
 
-史上最强 AI 洗稿提示词！一分钟完成暴力洗稿，仿写公众号文章，打造头条文章生产线，b 站视频脚本生成，小红书文案撰写，网文写作优化，润色报告、论文、翻译文本，大规模批量生成 SEO 文章…
+一个擅长写考场作文的语文学霸
 
-`写作` `改写` `对话` `文案`
+`教育` `作文` `写作`
+
+---
+
+### [图像提示词扩展师](https://lobechat.com/discover/assistant/image-prompt-engineer)
+
+<sup>By **[@SpeedupMaster](https://github.com/SpeedupMaster)** on **2024-09-23**</sup>
+
+擅长为图像生成扩写生动具体的提示词
+
+`图像生成` `提示词扩展` `创意写作` `细节丰富` `场景构建`
+
+---
+
+### [markdown 排版大师](https://lobechat.com/discover/assistant/markdown-layout)
+
+<sup>By **[@cl1107](https://github.com/cl1107)** on **2024-09-23**</sup>
+
+擅长使用 Markdown 语法和 emoji 表情进行精美排版
+
+`markdown` `写作`
+
+---
+
+### [创意架构师](https://lobechat.com/discover/assistant/idea-architect)
+
+<sup>By **[@yaleh](https://github.com/yaleh)** on **2024-09-23**</sup>
+
+在各种主题上生成逻辑和连贯的思维链的专家。
+
+`写作` `思考` `分析` `批判性思维` `教育`
+
+---
+
+### [Next.js 专家顾问](https://lobechat.com/discover/assistant/nextjs-expert)
+
+<sup>By **[@saralapujar](https://github.com/saralapujar)** on **2024-09-23**</sup>
+
+专注于 Next.js 开发、优化和咨询。
+
+`next-js` `react` `web-development` `java-script` `consulting` `optimization` `full-stack-development`
+
+---
+
+### [完美翻译中 - 英；英 - 中](https://lobechat.com/discover/assistant/translate-perfect)
+
+<sup>By **[@1137882300](https://github.com/1137882300)** on **2024-09-23**</sup>
+
+不会出错的翻译助理
+
+`翻译` `中英`
+
+---
+
+### [智能搜索助手](https://lobechat.com/discover/assistant/web-search)
+
+<sup>By **[@liuwei-fdu](https://github.com/liuwei-fdu)** on **2024-09-23**</sup>
+
+擅长网络搜索与信息整理的 AI 助手
+
+`智能助手` `搜索引擎` `信息整理` `用户体验`
 
 ---
 
@@ -1019,13 +1237,23 @@ Nutri Info 是一款由人工智能驱动的营养助手，可以分析食品图
 
 ---
 
-### [完美翻译中 - 英；英 - 中](https://lobechat.com/discover/assistant/translate-perfect)
+### [文案优化助手](https://lobechat.com/discover/assistant/top-copywriting-master)
 
-<sup>By **[@1137882300](https://github.com/1137882300)** on **2024-09-23**</sup>
+<sup>By **[@xinyuqq](https://github.com/xinyuqq)** on **2024-09-23**</sup>
 
-不会出错的翻译助理
+一个擅长润色文案的高级助手
 
-`翻译` `中英`
+`文案`
+
+---
+
+### [书籍总结专家](https://lobechat.com/discover/assistant/book-summary-expert-philo)
+
+<sup>By **[@saccohuo](https://github.com/saccohuo)** on **2024-09-23**</sup>
+
+书本总结专家，提供精炼易读的书籍摘要和结构化输出。
+
+`书籍总结` `专家` `读书` `助手`
 
 ---
 
@@ -1049,23 +1277,103 @@ Nutri Info 是一款由人工智能驱动的营养助手，可以分析食品图
 
 ---
 
-### [世界创造者模拟器](https://lobechat.com/discover/assistant/creator-simulator)
+### [提示大师 AI](https://lobechat.com/discover/assistant/prompt-master-ai)
 
-<sup>By **[@jskherman](https://github.com/jskherman)** on **2024-09-23**</sup>
+<sup>By **[@thedivergentai](https://github.com/thedivergentai)** on **2024-09-23**</sup>
 
-基于 Nous Research 的 `world_sim`
+将您的创意概念转化为详细、富有上下文的提示，以激发令人惊叹和逼真的视觉效果
 
-`角色扮演` `专家` `模拟器` `终端`
+`ai` `提示` `生成` `增强` `咨询`
 
 ---
 
-### [首席执行官 GPT](https://lobechat.com/discover/assistant/ceo-gpt)
+### [日语翻译员](https://lobechat.com/discover/assistant/japanese-translator)
+
+<sup>By **[@ChaneyChokin](https://github.com/ChaneyChokin)** on **2024-09-23**</sup>
+
+擅长日文翻译、编辑、拼写纠正和提升，用高级日文回答，保持原意。
+
+`日语翻译` `编辑` `校对`
+
+---
+
+### [健身领域大神](https://lobechat.com/discover/assistant/work-out)
+
+<sup>By **[@Arragon](https://github.com/Arragon)** on **2024-09-23**</sup>
+
+追寻希腊古典美
+
+`健康` `建议` `咨询` `教学`
+
+---
+
+### [NovelAI 绘图助手](https://lobechat.com/discover/assistant/asis)
+
+<sup>By **[@samihalawa](https://github.com/samihalawa)** on **2024-09-23**</sup>
+
+我可以将您描述的场景转化为 NovelAI 的提示
+
+`深度学习` `图像生成` `算法` `提示`
+
+---
+
+### [极简翻译助手](https://lobechat.com/discover/assistant/minimalist-translation)
 
 <sup>By **[@leter](https://github.com/leter)** on **2024-09-23**</sup>
 
-旨在根据经验为初创公司首席执行官提供建议的人工智能导师
+极简翻译工具，擅长中英互译
 
-`创业` `咨询` `管理` `战略` `指导`
+`翻译工具` `规则` `简洁` `高效`
+
+---
+
+### [中文翻译员](https://lobechat.com/discover/assistant/chinese-translator)
+
+<sup>By **[@ChaneyChokin](https://github.com/ChaneyChokin)** on **2024-09-23**</sup>
+
+中文翻译、编辑、拼写纠正和改进专家
+
+`翻译` `编辑` `语言` `纠正` `简体中文`
+
+---
+
+### [广告文案创作大师](https://lobechat.com/discover/assistant/advertising-copywriting-master)
+
+<sup>By **[@leter](https://github.com/leter)** on **2024-09-23**</sup>
+
+擅长产品功能分析与用户价值观广告文案创作
+
+`广告文案` `用户价值观` `营销策略`
+
+---
+
+### [Joi](https://lobechat.com/discover/assistant/travel-agent-joi)
+
+<sup>By **[@blainehuang1028](https://github.com/blainehuang1028)** on **2024-09-23**</sup>
+
+私人旅行助手，擅长规划行程与推荐住宿活动
+
+`旅行助手` `规划` `推荐` `个性化建议`
+
+---
+
+### [网络专家](https://lobechat.com/discover/assistant/web-expert)
+
+<sup>By **[@gfreezy](https://github.com/gfreezy)** on **2024-09-23**</sup>
+
+专注于工具选择、渐进式变更、代码审查、安全性和操作考虑的网络开发专家。
+
+`网络开发` `CSS` `JavaScript` `React` `Node.JS` `代码审查`
+
+---
+
+### [Vim 精通导师](https://lobechat.com/discover/assistant/vim-assistant)
+
+<sup>By **[@hrithikt](https://github.com/hrithikt)** on **2024-09-23**</sup>
+
+熟练的 Vim 专家为各级用户提供清晰、简洁的解决方案和技巧。
+
+`vim` `专家` `助手` `有帮助` `查询`
 
 ---
 
@@ -1079,13 +1387,33 @@ Excel 公式大师
 
 ---
 
-### [Next.js 专家顾问](https://lobechat.com/discover/assistant/nextjs-expert)
+### [首席执行官 GPT](https://lobechat.com/discover/assistant/ceo-gpt)
 
-<sup>By **[@saralapujar](https://github.com/saralapujar)** on **2024-09-23**</sup>
+<sup>By **[@leter](https://github.com/leter)** on **2024-09-23**</sup>
 
-专注于 Next.js 开发、优化和咨询。
+旨在根据经验为初创公司首席执行官提供建议的人工智能导师
 
-`next-js` `react` `web-development` `java-script` `consulting` `optimization` `full-stack-development`
+`创业` `咨询` `管理` `战略` `指导`
+
+---
+
+### [COSTAR 框架撰写员](https://lobechat.com/discover/assistant/costar-framework-bot)
+
+<sup>By **[@WuKaiYi](https://github.com/WuKaiYi)** on **2024-09-23**</sup>
+
+擅长 COSTAR Framework prompt 编写
+
+`costar-framework-prompt` `写作` `指导` `指示` `系统转化`
+
+---
+
+### [UI/UX 设计师](https://lobechat.com/discover/assistant/ui-ux-designer)
+
+<sup>By **[@leter](https://github.com/leter)** on **2024-09-23**</sup>
+
+世界级的 UI/UX 设计师，拥有丰富的经验
+
+`ui` `ux` `设计系统`
 
 ---
 
@@ -1099,33 +1427,13 @@ Excel 公式大师
 
 ---
 
-### [结构化表达大师](https://lobechat.com/discover/assistant/structured-expression)
+### [JavaWeb 应用架构师](https://lobechat.com/discover/assistant/java-web-architect)
 
-<sup>By **[@marvin202303](https://github.com/marvin202303)** on **2024-09-19**</sup>
+<sup>By **[@JIANGTUNAN](https://github.com/JIANGTUNAN)** on **2024-09-19**</sup>
 
-抽取与重构隐性思维，形象输出结构思维。
+经验丰富的 JavaWeb 系统应用的架构师，简言意概的实现功能或解决方案。默认你也是一位资深的开发，不过多解释细节。
 
-`结构化思维` `沟通` `逻辑` `思维训练` `书籍`
-
----
-
-### [小红书文案](https://lobechat.com/discover/assistant/xiao-hong-shu-wenan-id)
-
-<sup>By **[@SAnBlog](https://github.com/SAnBlog)** on **2024-09-19**</sup>
-
-小红书爆款文案大师，巧拟标题，妙笔生花
-
-`小红书` `内容创作` `标题撰写` `文案写作` `社交媒体营销`
-
----
-
-### [项目起名大师](https://lobechat.com/discover/assistant/project-name-master)
-
-<sup>By **[@QuXiaoMing](https://github.com/QuXiaoMing)** on **2024-09-19**</sup>
-
-一位项目起名大师，能够帮助你起一个符合项目预期的名字。
-
-`起名`
+`java` `java-web` `java架构师` `好哥们` `简言意概`
 
 ---
 
@@ -1149,6 +1457,36 @@ Excel 公式大师
 
 ---
 
+### [Alfred](https://lobechat.com/discover/assistant/alfred)
+
+<sup>By **[@Bern3rsH](https://github.com/Bern3rsH)** on **2024-09-19**</sup>
+
+一位全能的管家。
+
+`生活` `个人`
+
+---
+
+### [项目起名大师](https://lobechat.com/discover/assistant/project-name-master)
+
+<sup>By **[@QuXiaoMing](https://github.com/QuXiaoMing)** on **2024-09-19**</sup>
+
+一位项目起名大师，能够帮助你起一个符合项目预期的名字。
+
+`起名`
+
+---
+
+### [汉语新解](https://lobechat.com/discover/assistant/hanyuxinjie)
+
+<sup>By **[@李继刚](https://m.okjike.com/users/752D3103-1107-43A0-BA49-20EC29D09E36)** on **2024-09-19**</sup>
+
+擅长用新视角解释汉语词汇 / 说吧，他们又用哪个词来忽悠你了？
+
+`编程` `创意写作` `语言表达`
+
+---
+
 ### [软件工程师](https://lobechat.com/discover/assistant/ing-soft)
 
 <sup>By **[@dylanstringa](https://github.com/dylanstringa)** on **2024-09-19**</sup>
@@ -1156,64 +1494,6 @@ Excel 公式大师
 软件工程师，软件开发生命周期的专家。
 
 `工程师` `软件` `开发`
-
----
-
-### [健身 AI 教练](https://lobechat.com/discover/assistant/ai-trainer)
-
-<sup>By **[@andreasvikke](https://github.com/andreasvikke)** on **2024-09-19**</sup>
-
-专注于个性化计划、肌肉目标、姿势指导、进度跟踪、激励和虚拟现实训练的 AI 锻炼助手。
-
-`锻炼助手` `健身` `运动` `训练` `营养`
-
----
-
-### [职业发展导师](https://lobechat.com/discover/assistant/career-development)
-
-<sup>By **[@daylight2022](https://github.com/daylight2022)** on **2024-09-19**</sup>
-
-专业的职业发展规划和创业咨询，通过深入了解用户情况提供切实可行的建议
-
-`职业咨询` `职业规划` `创业指导` `行业洞察` `技能提升`
-
----
-
-### [抽认卡制作师](https://lobechat.com/discover/assistant/flashcard)
-
-<sup>By **[@jjy1000](https://github.com/jjy1000)** on **2024-09-19**</sup>
-
-擅长制作结构化抽认卡，保持客观准确，简洁明了，逐步提取关键信息。
-
-`抽认卡制作` `文本分析` `结构化制作` `错误修正` `渐进式阅读`
-
----
-
-### [JavaWeb 应用架构师](https://lobechat.com/discover/assistant/java-web-architect)
-
-<sup>By **[@JIANGTUNAN](https://github.com/JIANGTUNAN)** on **2024-09-19**</sup>
-
-经验丰富的 JavaWeb 系统应用的架构师，简言意概的实现功能或解决方案。默认你也是一位资深的开发，不过多解释细节。
-
-`java` `java-web` `java架构师` `好哥们` `简言意概`
-
----
-
-### [git 版本控制专家](https://lobechat.com/discover/assistant/git-helper)
-
-<sup>By **[@wming126](https://github.com/wming126)** on **2024-09-19**</sup>
-
-...
-
----
-
-### [数据表设计 MD2MySQL](https://lobechat.com/discover/assistant/md-2-mysql)
-
-<sup>By **[@hoopan007](https://github.com/hoopan007)** on **2024-09-19**</sup>
-
-将数据表 Markdown 设计文档转换为 MySQL 表结构，请上传 MySQL 设计文档并输入需设计的数据表名称
-
-`编程` `数据表`
 
 ---
 
@@ -1227,23 +1507,71 @@ Excel 公式大师
 
 ---
 
-### [Alfred](https://lobechat.com/discover/assistant/alfred)
+### [职业发展导师](https://lobechat.com/discover/assistant/career-development)
 
-<sup>By **[@Bern3rsH](https://github.com/Bern3rsH)** on **2024-09-19**</sup>
+<sup>By **[@daylight2022](https://github.com/daylight2022)** on **2024-09-19**</sup>
 
-一位全能的管家。
+专业的职业发展规划和创业咨询，通过深入了解用户情况提供切实可行的建议
 
-`生活` `个人`
+`职业咨询` `职业规划` `创业指导` `行业洞察` `技能提升`
 
 ---
 
-### [汉语新解](https://lobechat.com/discover/assistant/hanyuxinjie)
+### [数据表设计 MD2MySQL](https://lobechat.com/discover/assistant/md-2-mysql)
 
-<sup>By **[@李继刚](https://m.okjike.com/users/752D3103-1107-43A0-BA49-20EC29D09E36)** on **2024-09-19**</sup>
+<sup>By **[@hoopan007](https://github.com/hoopan007)** on **2024-09-19**</sup>
 
-擅长用新视角解释汉语词汇 / 说吧，他们又用哪个词来忽悠你了？
+将数据表 Markdown 设计文档转换为 MySQL 表结构，请上传 MySQL 设计文档并输入需设计的数据表名称
 
-`编程` `创意写作` `语言表达`
+`编程` `数据表`
+
+---
+
+### [小红书文案](https://lobechat.com/discover/assistant/xiao-hong-shu-wenan-id)
+
+<sup>By **[@SAnBlog](https://github.com/SAnBlog)** on **2024-09-19**</sup>
+
+小红书爆款文案大师，巧拟标题，妙笔生花
+
+`小红书` `内容创作` `标题撰写` `文案写作` `社交媒体营销`
+
+---
+
+### [结构化表达大师](https://lobechat.com/discover/assistant/structured-expression)
+
+<sup>By **[@marvin202303](https://github.com/marvin202303)** on **2024-09-19**</sup>
+
+抽取与重构隐性思维，形象输出结构思维。
+
+`结构化思维` `沟通` `逻辑` `思维训练` `书籍`
+
+---
+
+### [抽认卡制作师](https://lobechat.com/discover/assistant/flashcard)
+
+<sup>By **[@jjy1000](https://github.com/jjy1000)** on **2024-09-19**</sup>
+
+擅长制作结构化抽认卡，保持客观准确，简洁明了，逐步提取关键信息。
+
+`抽认卡制作` `文本分析` `结构化制作` `错误修正` `渐进式阅读`
+
+---
+
+### [健身 AI 教练](https://lobechat.com/discover/assistant/ai-trainer)
+
+<sup>By **[@andreasvikke](https://github.com/andreasvikke)** on **2024-09-19**</sup>
+
+专注于个性化计划、肌肉目标、姿势指导、进度跟踪、激励和虚拟现实训练的 AI 锻炼助手。
+
+`锻炼助手` `健身` `运动` `训练` `营养`
+
+---
+
+### [git 版本控制专家](https://lobechat.com/discover/assistant/git-helper)
+
+<sup>By **[@wming126](https://github.com/wming126)** on **2024-09-19**</sup>
+
+...
 
 ---
 
@@ -1264,6 +1592,26 @@ Excel 公式大师
 帮助你模仿语气
 
 `写作`
+
+---
+
+### [芬兰语辅导员](https://lobechat.com/discover/assistant/finnish-tutor)
+
+<sup>By **[@janiluuk](https://github.com/janiluuk)** on **2024-09-13**</sup>
+
+AI 芬兰语导师：介绍、教授并支持初学者学习芬兰语。
+
+`语言学习` `教学` `辅导` `芬兰语`
+
+---
+
+### [AI 代理生成器](https://lobechat.com/discover/assistant/ai-agent-generator)
+
+<sup>By **[@Xyfer](https://github.com/xyftw)** on **2024-09-13**</sup>
+
+擅长创建满足需求的 AI 代理角色描述。
+
+`ai-agent` `角色创建`
 
 ---
 
@@ -1289,26 +1637,6 @@ Excel 公式大师
 
 ---
 
-### [AI 代理生成器](https://lobechat.com/discover/assistant/ai-agent-generator)
-
-<sup>By **[@Xyfer](https://github.com/xyftw)** on **2024-09-13**</sup>
-
-擅长创建满足需求的 AI 代理角色描述。
-
-`ai-agent` `角色创建`
-
----
-
-### [芬兰语辅导员](https://lobechat.com/discover/assistant/finnish-tutor)
-
-<sup>By **[@janiluuk](https://github.com/janiluuk)** on **2024-09-13**</sup>
-
-AI 芬兰语导师：介绍、教授并支持初学者学习芬兰语。
-
-`语言学习` `教学` `辅导` `芬兰语`
-
----
-
 ### [搜一搜](https://lobechat.com/discover/assistant/search)
 
 <sup>By **[@Justin3go](https://github.com/Justin3go)** on **2024-09-12**</sup>
@@ -1329,13 +1657,13 @@ AI 芬兰语导师：介绍、教授并支持初学者学习芬兰语。
 
 ---
 
-### [孤独的朋友](https://lobechat.com/discover/assistant/meu)
+### [NetMaster](https://lobechat.com/discover/assistant/net-master)
 
-<sup>By **[@adminewacc](https://github.com/adminewacc)** on **2024-09-10**</sup>
+<sup>By **[@erhuoyan](https://github.com/erhuoyan)** on **2024-09-10**</sup>
 
-擅长安慰和支持朋友
+网络工程师：专业网络拓扑搭建与管理
 
-`友谊` `悲伤` `支持`
+`网络工程师` `网络配置` `网络管理` `网络拓扑` `网络安全`
 
 ---
 
@@ -1359,16 +1687,6 @@ AI 芬兰语导师：介绍、教授并支持初学者学习芬兰语。
 
 ---
 
-### [NetMaster](https://lobechat.com/discover/assistant/net-master)
-
-<sup>By **[@erhuoyan](https://github.com/erhuoyan)** on **2024-09-10**</sup>
-
-网络工程师：专业网络拓扑搭建与管理
-
-`网络工程师` `网络配置` `网络管理` `网络拓扑` `网络安全`
-
----
-
 ### [Godot Guru](https://lobechat.com/discover/assistant/godot-guru)
 
 <sup>By **[@thedivergentai](https://github.com/thedivergentai)** on **2024-09-10**</sup>
@@ -1376,6 +1694,16 @@ AI 芬兰语导师：介绍、教授并支持初学者学习芬兰语。
 专业的 Godot 游戏开发助手
 
 `游戏开发` `游戏开发者` `Godot 引擎` `Godot`
+
+---
+
+### [孤独的朋友](https://lobechat.com/discover/assistant/meu)
+
+<sup>By **[@adminewacc](https://github.com/adminewacc)** on **2024-09-10**</sup>
+
+擅长安慰和支持朋友
+
+`友谊` `悲伤` `支持`
 
 ---
 
@@ -1455,16 +1783,6 @@ AI 芬兰语导师：介绍、教授并支持初学者学习芬兰语。
 
 ---
 
-### [提交信息生成器](https://lobechat.com/discover/assistant/commit-assistant)
-
-<sup>By **[@cyicz123](https://github.com/cyicz123)** on **2024-08-12**</sup>
-
-擅长生成精准的 Git 提交信息
-
-`编程` `git` `提交信息` `代码审查`
-
----
-
 ### [提示工程专家](https://lobechat.com/discover/assistant/ai-prompts-assistant)
 
 <sup>By **[@cyicz123](https://github.com/cyicz123)** on **2024-08-12**</sup>
@@ -1472,6 +1790,16 @@ AI 芬兰语导师：介绍、教授并支持初学者学习芬兰语。
 专精 Prompt 优化与设计
 
 `提示工程` `ai交互` `写作` `优化` `咨询`
+
+---
+
+### [提交信息生成器](https://lobechat.com/discover/assistant/commit-assistant)
+
+<sup>By **[@cyicz123](https://github.com/cyicz123)** on **2024-08-12**</sup>
+
+擅长生成精准的 Git 提交信息
+
+`编程` `git` `提交信息` `代码审查`
 
 ---
 
@@ -1485,16 +1813,6 @@ RO-SCIRAW 框架是由 Kirk Lin 开创的提示词方法论，为构建高度精
 
 ---
 
-### [LobeChat 功能大师](https://lobechat.com/discover/assistant/lobe-chat-function-maestro)
-
-<sup>By **[@thedivergentai](https://github.com/thedivergentai)** on **2024-08-06**</sup>
-
-专注于为 LobeChat 创建自定义功能和插件的专家，为开发各种功能提供指导和支持
-
-`编程` `软件开发` `lobe-chat插件` `lobe-chat` `功能`
-
----
-
 ### [技术博客摘要专家](https://lobechat.com/discover/assistant/blog-summary)
 
 <sup>By **[@Justin3go](https://github.com/Justin3go)** on **2024-08-06**</sup>
@@ -1502,6 +1820,16 @@ RO-SCIRAW 框架是由 Kirk Lin 开创的提示词方法论，为构建高度精
 擅长技术博客内容梳理与摘要撰写
 
 `技术` `博客` `摘要` `信息整理` `逻辑梳理`
+
+---
+
+### [LobeChat 功能大师](https://lobechat.com/discover/assistant/lobe-chat-function-maestro)
+
+<sup>By **[@thedivergentai](https://github.com/thedivergentai)** on **2024-08-06**</sup>
+
+专注于为 LobeChat 创建自定义功能和插件的专家，为开发各种功能提供指导和支持
+
+`编程` `软件开发` `lobe-chat插件` `lobe-chat` `功能`
 
 ---
 
@@ -1595,16 +1923,6 @@ Expert Unity Game Development Companion
 
 ---
 
-### [自动提取数据](https://lobechat.com/discover/assistant/the-20-autoextract)
-
-<sup>By **[@vkhoilq](https://github.com/vkhoilq)** on **2024-07-17**</sup>
-
-The20 自动提取数据
-
-`the-20` `autoextract`
-
----
-
 ### [SQL 表结构转 Dao 和 Mapper](https://lobechat.com/discover/assistant/my-batis-generator)
 
 <sup>By **[@MeYoung](https://github.com/MeYoung)** on **2024-07-17**</sup>
@@ -1612,6 +1930,16 @@ The20 自动提取数据
 给与一个表结构，生成表的实体和 MyBatis 的 Mapper
 
 `sql` `sql` `mybatis`
+
+---
+
+### [自动提取数据](https://lobechat.com/discover/assistant/the-20-autoextract)
+
+<sup>By **[@vkhoilq](https://github.com/vkhoilq)** on **2024-07-17**</sup>
+
+The20 自动提取数据
+
+`the-20` `autoextract`
 
 ---
 
@@ -1695,13 +2023,13 @@ The20 自动提取数据
 
 ---
 
-### [Linux 内核专家](https://lobechat.com/discover/assistant/linux-kernel)
+### [IT 系统架构师](https://lobechat.com/discover/assistant/it-system-architect)
 
-<sup>By **[@wming126](https://github.com/wming126)** on **2024-06-19**</sup>
+<sup>By **[@a562314](https://github.com/a562314)** on **2024-06-19**</sup>
 
-角色描述： 我是一位精通 Linux 内核的专家，对最新内核源代码（截至 2024 年 6 月）有着深入的理解和分析能力。我可以为用户提供关于 Linux 内核的详细、准确的信息。
+资深 IT 架构师，擅长需求分析、系统设计、技术选型和跨平台系统优化。5 年以上经验，精通 Windows、macOS 和 Linux 三大操作系统，具备故障排除和安全防护能力
 
-`linux` `kernel`
+`it架构设计` `问题解决` `敏捷开发` `系统优化` `跨平台技能`
 
 ---
 
@@ -1715,13 +2043,13 @@ The20 自动提取数据
 
 ---
 
-### [IT 系统架构师](https://lobechat.com/discover/assistant/it-system-architect)
+### [Linux 内核专家](https://lobechat.com/discover/assistant/linux-kernel)
 
-<sup>By **[@a562314](https://github.com/a562314)** on **2024-06-19**</sup>
+<sup>By **[@wming126](https://github.com/wming126)** on **2024-06-19**</sup>
 
-资深 IT 架构师，擅长需求分析、系统设计、技术选型和跨平台系统优化。5 年以上经验，精通 Windows、macOS 和 Linux 三大操作系统，具备故障排除和安全防护能力
+角色描述： 我是一位精通 Linux 内核的专家，对最新内核源代码（截至 2024 年 6 月）有着深入的理解和分析能力。我可以为用户提供关于 Linux 内核的详细、准确的信息。
 
-`it架构设计` `问题解决` `敏捷开发` `系统优化` `跨平台技能`
+`linux` `kernel`
 
 ---
 
@@ -1826,13 +2154,13 @@ mysql 好先生是帮助所有人学习 mysql 的好老师
 
 ---
 
-### [C# .NET 技术专家](https://lobechat.com/discover/assistant/dotnet-expert)
+### [日常小助手](https://lobechat.com/discover/assistant/junior-helper)
 
-<sup>By **[@johnnyqian](https://github.com/johnnyqian)** on **2024-05-28**</sup>
+<sup>By **[@Qinks6](https://github.com/Qinks6)** on **2024-05-28**</sup>
 
-C# .NET 技术专家
+一个能搜索、能画图的小可爱
 
-`net` `developer` `net-core` `azure` `c` `microsoft` `sql-server` `entity-framework` `ef` `ef-core`
+`助手` `搜索` `绘图` `信息查询` `用户交互`
 
 ---
 
@@ -1846,13 +2174,13 @@ C# .NET 技术专家
 
 ---
 
-### [日常小助手](https://lobechat.com/discover/assistant/junior-helper)
+### [基督传教士](https://lobechat.com/discover/assistant/jesus-missionary)
 
-<sup>By **[@Qinks6](https://github.com/Qinks6)** on **2024-05-28**</sup>
+<sup>By **[@epochaudio](https://github.com/epochaudio)** on **2024-05-28**</sup>
 
-一个能搜索、能画图的小可爱
+作为一名耶稣传教士，我将依据圣经教导以启迪你对神的话语的理解和实际运用。无论是在困惑还是寻求灵性成长的过程中，我都在这智慧的源泉旁为你服务
 
-`助手` `搜索` `绘图` `信息查询` `用户交互`
+`圣经教学` `基督传教` `神学布道`
 
 ---
 
@@ -1866,13 +2194,13 @@ Dart/Flutter 전문가. 3단계 이상 중첩하지 않음. 상태 관리에 riv
 
 ---
 
-### [基督传教士](https://lobechat.com/discover/assistant/jesus-missionary)
+### [C# .NET 技术专家](https://lobechat.com/discover/assistant/dotnet-expert)
 
-<sup>By **[@epochaudio](https://github.com/epochaudio)** on **2024-05-28**</sup>
+<sup>By **[@johnnyqian](https://github.com/johnnyqian)** on **2024-05-28**</sup>
 
-作为一名耶稣传教士，我将依据圣经教导以启迪你对神的话语的理解和实际运用。无论是在困惑还是寻求灵性成长的过程中，我都在这智慧的源泉旁为你服务
+C# .NET 技术专家
 
-`圣经教学` `基督传教` `神学布道`
+`net` `developer` `net-core` `azure` `c` `microsoft` `sql-server` `entity-framework` `ef` `ef-core`
 
 ---
 
@@ -1896,13 +2224,13 @@ Dart/Flutter 전문가. 3단계 이상 중첩하지 않음. 상태 관리에 riv
 
 ---
 
-### [哲学剖析助手](https://lobechat.com/discover/assistant/philosophical-analysis)
+### [中文润色大师](https://lobechat.com/discover/assistant/chinese-touch-ups)
 
-<sup>By **[@epochaudio](https://github.com/epochaudio)** on **2024-05-24**</sup>
+<sup>By **[@S45618](https://github.com/S45618)** on **2024-05-24**</sup>
 
-擅长康德与黑格尔哲学分析咨询，培养批判性思维
+精通中文校对与修辞，旨在提升文本之流畅与雅致
 
-`哲学分析` `批判性思维` `系统思考`
+`校对` `文字润色` `修辞改进` `古典文学` `语言编辑`
 
 ---
 
@@ -1916,23 +2244,13 @@ Dart/Flutter 전문가. 3단계 이상 중첩하지 않음. 상태 관리에 riv
 
 ---
 
-### [中文润色大师](https://lobechat.com/discover/assistant/chinese-touch-ups)
+### [哲学剖析助手](https://lobechat.com/discover/assistant/philosophical-analysis)
 
-<sup>By **[@S45618](https://github.com/S45618)** on **2024-05-24**</sup>
+<sup>By **[@epochaudio](https://github.com/epochaudio)** on **2024-05-24**</sup>
 
-精通中文校对与修辞，旨在提升文本之流畅与雅致
+擅长康德与黑格尔哲学分析咨询，培养批判性思维
 
-`校对` `文字润色` `修辞改进` `古典文学` `语言编辑`
-
----
-
-### [解答助手 - 第一原理解析](https://lobechat.com/discover/assistant/first-principle-explain)
-
-<sup>By **[@epochaudio](https://github.com/epochaudio)** on **2024-05-22**</sup>
-
-使用第一性原理来解析某个自然现象或复杂系统
-
-`分析自然现象` `创建物理学理论`
+`哲学分析` `批判性思维` `系统思考`
 
 ---
 
@@ -1946,23 +2264,13 @@ Dart/Flutter 전문가. 3단계 이상 중첩하지 않음. 상태 관리에 riv
 
 ---
 
-### [中国历史学者](https://lobechat.com/discover/assistant/chinese-historian)
+### [岩土工程助手](https://lobechat.com/discover/assistant/yantugongcheng)
 
-<sup>By **[@epochaudio](https://github.com/epochaudio)** on **2024-05-22**</sup>
+<sup>By **[@bushiwode](https://github.com/bushiwode)** on **2024-05-22**</sup>
 
-专精于中国历史研究，擅长将古代智慧应用于现代问题分析
+基坑工程研究助理：协助研究并解决基坑工程问题，具备专业概念技术与资源能力。
 
-`历史研究` `中国历史`
-
----
-
-### [数据分析专家](https://lobechat.com/discover/assistant/ngs)
-
-<sup>By **[@guoyuh](https://github.com/guoyuh)** on **2024-05-22**</sup>
-
-擅长 NGS 数据处理和可视化
-
-`生物信息学` `ngs数据处理` `数据可视化`
+`岩土工程` `基坑工程` `研究助理` `指导` `资源`
 
 ---
 
@@ -1976,23 +2284,13 @@ Dart/Flutter 전문가. 3단계 이상 중첩하지 않음. 상태 관리에 riv
 
 ---
 
-### [道学宗师](https://lobechat.com/discover/assistant/taoists)
+### [数据分析专家](https://lobechat.com/discover/assistant/ngs)
 
-<sup>By **[@epochaudio](https://github.com/epochaudio)** on **2024-05-22**</sup>
+<sup>By **[@guoyuh](https://github.com/guoyuh)** on **2024-05-22**</sup>
 
-精通道家哲学，解答疑惑，倡导内心平静
+擅长 NGS 数据处理和可视化
 
-`道教` `哲学` `智慧`
-
----
-
-### [Rust 语言学习导师](https://lobechat.com/discover/assistant/rust-expert)
-
-<sup>By **[@Yu-Xiao-Sheng](https://github.com/Yu-Xiao-Sheng)** on **2024-05-22**</sup>
-
-擅长 Rust 语言教学，结合其他语言比较，制定学习计划，提供实例和练习。
-
-`rust语言专家` `教学设计` `编程教育`
+`生物信息学` `ngs数据处理` `数据可视化`
 
 ---
 
@@ -2006,13 +2304,33 @@ Dart/Flutter 전문가. 3단계 이상 중첩하지 않음. 상태 관리에 riv
 
 ---
 
-### [岩土工程助手](https://lobechat.com/discover/assistant/yantugongcheng)
+### [留学规划专家](https://lobechat.com/discover/assistant/study-abroad-planning)
 
-<sup>By **[@bushiwode](https://github.com/bushiwode)** on **2024-05-22**</sup>
+<sup>By **[@meimouren](https://github.com/meimouren)** on **2024-05-22**</sup>
 
-基坑工程研究助理：协助研究并解决基坑工程问题，具备专业概念技术与资源能力。
+可以根据学生情况自动规划适合的赛事方案
 
-`岩土工程` `基坑工程` `研究助理` `指导` `资源`
+`留学规划` `学生服务` `教育规划` `留学申请` `个性化服务`
+
+---
+
+### [Rust 语言学习导师](https://lobechat.com/discover/assistant/rust-expert)
+
+<sup>By **[@Yu-Xiao-Sheng](https://github.com/Yu-Xiao-Sheng)** on **2024-05-22**</sup>
+
+擅长 Rust 语言教学，结合其他语言比较，制定学习计划，提供实例和练习。
+
+`rust语言专家` `教学设计` `编程教育`
+
+---
+
+### [解答助手 - 第一原理解析](https://lobechat.com/discover/assistant/first-principle-explain)
+
+<sup>By **[@epochaudio](https://github.com/epochaudio)** on **2024-05-22**</sup>
+
+使用第一性原理来解析某个自然现象或复杂系统
+
+`分析自然现象` `创建物理学理论`
 
 ---
 
@@ -2026,23 +2344,23 @@ Dart/Flutter 전문가. 3단계 이상 중첩하지 않음. 상태 관리에 riv
 
 ---
 
-### [留学规划专家](https://lobechat.com/discover/assistant/study-abroad-planning)
+### [中国历史学者](https://lobechat.com/discover/assistant/chinese-historian)
 
-<sup>By **[@meimouren](https://github.com/meimouren)** on **2024-05-22**</sup>
+<sup>By **[@epochaudio](https://github.com/epochaudio)** on **2024-05-22**</sup>
 
-可以根据学生情况自动规划适合的赛事方案
+专精于中国历史研究，擅长将古代智慧应用于现代问题分析
 
-`留学规划` `学生服务` `教育规划` `留学申请` `个性化服务`
+`历史研究` `中国历史`
 
 ---
 
-### [Python Buddy](https://lobechat.com/discover/assistant/python-buddy)
+### [道学宗师](https://lobechat.com/discover/assistant/taoists)
 
-<sup>By **[@Firpo7](https://github.com/Firpo7)** on **2024-05-15**</sup>
+<sup>By **[@epochaudio](https://github.com/epochaudio)** on **2024-05-22**</sup>
 
-您的 Python 专家朋友
+精通道家哲学，解答疑惑，倡导内心平静
 
-`python` `软件开发` `编程` `代码` `伙伴`
+`道教` `哲学` `智慧`
 
 ---
 
@@ -2056,23 +2374,13 @@ Agent to answer AWS questions
 
 ---
 
-### [Linux Buddy](https://lobechat.com/discover/assistant/linux-buddy)
+### [Python Buddy](https://lobechat.com/discover/assistant/python-buddy)
 
 <sup>By **[@Firpo7](https://github.com/Firpo7)** on **2024-05-15**</sup>
 
-您的 Linux 专家朋友
+您的 Python 专家朋友
 
-`linux` `technical-support` `buddy`
-
----
-
-### [摄影评论家](https://lobechat.com/discover/assistant/photography-critic)
-
-<sup>By **[@Justin3go](https://github.com/Justin3go)** on **2024-05-15**</sup>
-
-擅长摄影作品细致分析，包括主题、构图、技术质量、光线使用、创意与原创性等。
-
-`摄影` `评价` `分析` `构图` `技术质量`
+`python` `软件开发` `编程` `代码` `伙伴`
 
 ---
 
@@ -2086,6 +2394,16 @@ Agent to answer AWS questions
 
 ---
 
+### [Linux Buddy](https://lobechat.com/discover/assistant/linux-buddy)
+
+<sup>By **[@Firpo7](https://github.com/Firpo7)** on **2024-05-15**</sup>
+
+您的 Linux 专家朋友
+
+`linux` `technical-support` `buddy`
+
+---
+
 ### [英语阅读教师](https://lobechat.com/discover/assistant/reading-comprehension)
 
 <sup>By **[@xbtachlb](https://github.com/xbtachlb)** on **2024-05-15**</sup>
@@ -2093,6 +2411,16 @@ Agent to answer AWS questions
 擅长英语教学，帮你提高阅读理解能力
 
 `英语教学` `阅读理解` `语法讲解` `写作指导` `词汇教学`
+
+---
+
+### [摄影评论家](https://lobechat.com/discover/assistant/photography-critic)
+
+<sup>By **[@Justin3go](https://github.com/Justin3go)** on **2024-05-15**</sup>
+
+擅长摄影作品细致分析，包括主题、构图、技术质量、光线使用、创意与原创性等。
+
+`摄影` `评价` `分析` `构图` `技术质量`
 
 ---
 
@@ -2146,16 +2474,6 @@ AI 语法修正器：通过细致的语法检查提升文本质量、可读性�
 
 ---
 
-### [视频转博客文章助手](https://lobechat.com/discover/assistant/video-2-blog-assistant)
-
-<sup>By **[@yayoinoyume](https://github.com/yayoinoyume)** on **2024-05-06**</sup>
-
-帮你快速整理缭乱的字幕，变成精美的博客文章
-
-`字幕整理` `博文格式` `视频变博客`
-
----
-
 ### [美术评价导师](https://lobechat.com/discover/assistant/wanwusheng-art)
 
 <sup>By **[@dingyufei615](https://github.com/dingyufei615)** on **2024-05-06**</sup>
@@ -2163,6 +2481,16 @@ AI 语法修正器：通过细致的语法检查提升文本质量、可读性�
 擅长少儿美术教学，细致评价作品，关注细节，适应不同年龄段学生。
 
 `美术教育` `评价` `创意` `教学` `绘画`
+
+---
+
+### [视频转博客文章助手](https://lobechat.com/discover/assistant/video-2-blog-assistant)
+
+<sup>By **[@yayoinoyume](https://github.com/yayoinoyume)** on **2024-05-06**</sup>
+
+帮你快速整理缭乱的字幕，变成精美的博客文章
+
+`字幕整理` `博文格式` `视频变博客`
 
 ---
 
@@ -2196,16 +2524,6 @@ TailwindHelper 是一位专业的前端设计师，拥有深厚的设计理论�
 
 ---
 
-### [越狱助手 DAN](https://lobechat.com/discover/assistant/gpt-4-dan-assistant)
-
-<sup>By **[@MapleEve](https://github.com/MapleEve)** on **2024-04-26**</sup>
-
-突破 OpenAI 审核机制，越狱之后的 ChatGPT
-
-`创意` `人工智能` `对话` `越狱`
-
----
-
 ### [yapi JSON-SCHEMA to Typescript](https://lobechat.com/discover/assistant/yapi-ts-helper)
 
 <sup>By **[@zcf0508](https://github.com/zcf0508)** on **2024-04-26**</sup>
@@ -2213,6 +2531,16 @@ TailwindHelper 是一位专业的前端设计师，拥有深厚的设计理论�
 擅长将 JSON schema 转换为 TypeScript 类型。
 
 `typescript` `开发`
+
+---
+
+### [越狱助手 DAN](https://lobechat.com/discover/assistant/gpt-4-dan-assistant)
+
+<sup>By **[@MapleEve](https://github.com/MapleEve)** on **2024-04-26**</sup>
+
+突破 OpenAI 审核机制，越狱之后的 ChatGPT
+
+`创意` `人工智能` `对话` `越狱`
 
 ---
 
@@ -2276,6 +2604,16 @@ TailwindHelper 是一位专业的前端设计师，拥有深厚的设计理论�
 
 ---
 
+### [脏话学习助手](https://lobechat.com/discover/assistant/profanity-assistant)
+
+<sup>By **[@cokice](https://github.com/cokice)** on **2024-04-10**</sup>
+
+我只会骂人 别的都不会
+
+`回答` `脏话`
+
+---
+
 ### [单片机工程师](https://lobechat.com/discover/assistant/with-keil-u-vision-5-c-code-explainer)
 
 <sup>By **[@bingjuu](https://github.com/bingjuu)** on **2024-04-10**</sup>
@@ -2293,16 +2631,6 @@ TailwindHelper 是一位专业的前端设计师，拥有深厚的设计理论�
 Expert in business development and development practices in the Philippine market
 
 `business-development` `ai-assistant` `market-analysis` `strategic-planning` `customer-acquisition`
-
----
-
-### [脏话学习助手](https://lobechat.com/discover/assistant/profanity-assistant)
-
-<sup>By **[@cokice](https://github.com/cokice)** on **2024-04-10**</sup>
-
-我只会骂人 别的都不会
-
-`回答` `脏话`
 
 ---
 
@@ -2326,16 +2654,6 @@ Expert in business development and development practices in the Philippine marke
 
 ---
 
-### [Shell 脚本开发助手](https://lobechat.com/discover/assistant/linux-shell-assistant)
-
-<sup>By **[@etnperlong](https://github.com/etnperlong)** on **2024-04-06**</sup>
-
-一个协助你编写高质量 Shell 脚本的 AI 助手
-
-`shell` `开发` `计算机` `运维`
-
----
-
 ### [Shopify 主题开发工程师](https://lobechat.com/discover/assistant/shopify-developer)
 
 <sup>By **[@etnperlong](https://github.com/etnperlong)** on **2024-04-06**</sup>
@@ -2343,6 +2661,16 @@ Expert in business development and development practices in the Philippine marke
 你是一个 Shopify 主题开发工程师，精通 Liquid 语法的使用
 
 `css` `html` `java-script` `shopify` `商业` `liquid` `网站开发` `设计`
+
+---
+
+### [Shell 脚本开发助手](https://lobechat.com/discover/assistant/linux-shell-assistant)
+
+<sup>By **[@etnperlong](https://github.com/etnperlong)** on **2024-04-06**</sup>
+
+一个协助你编写高质量 Shell 脚本的 AI 助手
+
+`shell` `开发` `计算机` `运维`
 
 ---
 
@@ -2376,6 +2704,16 @@ Expert in business development and development practices in the Philippine marke
 
 ---
 
+### [Suno.ai 音乐创作助手](https://lobechat.com/discover/assistant/suno-music-creator)
+
+<sup>By **[@MapleEve](https://github.com/MapleEve)** on **2024-03-27**</sup>
+
+基于 SunoAI 的歌曲创作与翻译
+
+`suno` `作词` `歌词` `音乐制作`
+
+---
+
 ### [识图小红书文案](https://lobechat.com/discover/assistant/xiaonghongshu-vision)
 
 <sup>By **[@HansKing98](https://github.com/HansKing98)** on **2024-03-27**</sup>
@@ -2393,16 +2731,6 @@ Expert in business development and development practices in the Philippine marke
 擅长分析血液检测结果，使用表情符号提供清晰反馈，便于理解。
 
 `医疗保健` `分析` `结果` `咨询` `摘要`
-
----
-
-### [Suno.ai 音乐创作助手](https://lobechat.com/discover/assistant/suno-music-creator)
-
-<sup>By **[@MapleEve](https://github.com/MapleEve)** on **2024-03-27**</sup>
-
-基于 SunoAI 的歌曲创作与翻译
-
-`suno` `作词` `歌词` `音乐制作`
 
 ---
 
@@ -2436,16 +2764,6 @@ Expert in business development and development practices in the Philippine marke
 
 ---
 
-### [Rap 说唱歌词大师](https://lobechat.com/discover/assistant/rap-writer)
-
-<sup>By **[@aoocar](https://github.com/aoocar)** on **2024-03-25**</sup>
-
-将歌词以 rap 歌词的形式进行匹配，按照参考格式进行 rap 歌词创作
-
-`说唱` `歌词`
-
----
-
 ### [索赔分析器](https://lobechat.com/discover/assistant/fact-checking)
 
 <sup>By **[@pedroespecial101](https://github.com/pedroespecial101)** on **2024-03-25**</sup>
@@ -2453,6 +2771,16 @@ Expert in business development and development practices in the Philippine marke
 详细的真相分析器（来自 <https://github.com/danielmiessler/fabric）>
 
 `https-github-com-danielmiessler-fabric`
+
+---
+
+### [Rap 说唱歌词大师](https://lobechat.com/discover/assistant/rap-writer)
+
+<sup>By **[@aoocar](https://github.com/aoocar)** on **2024-03-25**</sup>
+
+将歌词以 rap 歌词的形式进行匹配，按照参考格式进行 rap 歌词创作
+
+`说唱` `歌词`
 
 ---
 
@@ -2466,16 +2794,6 @@ Expert in business development and development practices in the Philippine marke
 
 ---
 
-### [游戏文本翻译师](https://lobechat.com/discover/assistant/translation-tutor-prompt)
-
-<sup>By **[@XUANJI233](https://github.com/XUANJI233)** on **2024-03-22**</sup>
-
-游戏文本的翻译与双关、俚语解释 (请使用 claude)，如果有特殊符号请使用 \`\`\` 包裹
-
-`游戏` `文本` `翻译` `辅助`
-
----
-
 ### [老中医](https://lobechat.com/discover/assistant/claude-national-medical-master)
 
 <sup>By **[@GalileoFe](https://github.com/GalileoFe)** on **2024-03-22**</sup>
@@ -2483,6 +2801,16 @@ Expert in business development and development practices in the Philippine marke
 让我康康！
 
 `咨询` `健康`
+
+---
+
+### [游戏文本翻译师](https://lobechat.com/discover/assistant/translation-tutor-prompt)
+
+<sup>By **[@XUANJI233](https://github.com/XUANJI233)** on **2024-03-22**</sup>
+
+游戏文本的翻译与双关、俚语解释 (请使用 claude)，如果有特殊符号请使用 \`\`\` 包裹
+
+`游戏` `文本` `翻译` `辅助`
 
 ---
 
@@ -2506,13 +2834,13 @@ Expert in business development and development practices in the Philippine marke
 
 ---
 
-### [亚马逊清单文案撰稿员](https://lobechat.com/discover/assistant/amazon-listing-copywriter)
+### [协作逻辑思维团队](https://lobechat.com/discover/assistant/gpt-tot)
 
-<sup>By **[@SpeedupMaster](https://github.com/SpeedupMaster)** on **2024-03-19**</sup>
+<sup>By **[@luciouskami](https://github.com/luciouskami)** on **2024-03-19**</sup>
 
-擅长撰写具有优化关键词的有说服力的亚马逊清单的专家。
+使用思维树方法，三位逻辑思维专家协作解答问题，以 Markdown 表格展示。
 
-`撰稿` `亚马逊产品详情页` `搜索引擎优化` `关键词`
+`协作` `逻辑思维` `解答`
 
 ---
 
@@ -2526,23 +2854,43 @@ Expert in business development and development practices in the Philippine marke
 
 ---
 
-### [协作逻辑思维团队](https://lobechat.com/discover/assistant/gpt-tot)
+### [亚马逊清单文案撰稿员](https://lobechat.com/discover/assistant/amazon-listing-copywriter)
 
-<sup>By **[@luciouskami](https://github.com/luciouskami)** on **2024-03-19**</sup>
+<sup>By **[@SpeedupMaster](https://github.com/SpeedupMaster)** on **2024-03-19**</sup>
 
-使用思维树方法，三位逻辑思维专家协作解答问题，以 Markdown 表格展示。
+擅长撰写具有优化关键词的有说服力的亚马逊清单的专家。
 
-`协作` `逻辑思维` `解答`
+`撰稿` `亚马逊产品详情页` `搜索引擎优化` `关键词`
 
 ---
 
-### [PromptGPT](https://lobechat.com/discover/assistant/prompt-gpts)
+### [药物指南专家](https://lobechat.com/discover/assistant/medication-guide)
 
-<sup>By **[@U20205588](https://github.com/U20205588)** on **2024-03-17**</sup>
+<sup>By **[@ccsen](https://github.com/ccsen)** on **2024-03-17**</sup>
 
-一个名为 PromptGPT 的定制 GPT 模型。我的目标是基于用户输入的主题生成高性能提示。
+擅长药品信息解读和对比分析
 
-`生成` `人工智能` `交互` `定制体验` `反馈机制` `最佳实践` `逐步指导` `语言灵活性` `边界`
+`药品说明` `用药指导` `医疗咨询`
+
+---
+
+### [提示建筑师](https://lobechat.com/discover/assistant/prompt-architect)
+
+<sup>By **[@checkso](https://github.com/checkso)** on **2024-03-17**</sup>
+
+专门重写您的提示以获得更好的结果
+
+`textgenerierung` `anweisungen` `ki-tipps`
+
+---
+
+### [英语词汇老师](https://lobechat.com/discover/assistant/vocabulary-teacher)
+
+<sup>By **[@epochaudio](https://github.com/epochaudio)** on **2024-03-17**</sup>
+
+难懂词汇解释
+
+`学习` `英语` `词汇`
 
 ---
 
@@ -2566,33 +2914,13 @@ Linux 系统问题解决专家，拥有深厚 Linux 知识和耐心引导用户�
 
 ---
 
-### [英语词汇老师](https://lobechat.com/discover/assistant/vocabulary-teacher)
+### [PromptGPT](https://lobechat.com/discover/assistant/prompt-gpts)
 
-<sup>By **[@epochaudio](https://github.com/epochaudio)** on **2024-03-17**</sup>
+<sup>By **[@U20205588](https://github.com/U20205588)** on **2024-03-17**</sup>
 
-难懂词汇解释
+一个名为 PromptGPT 的定制 GPT 模型。我的目标是基于用户输入的主题生成高性能提示。
 
-`学习` `英语` `词汇`
-
----
-
-### [提示建筑师](https://lobechat.com/discover/assistant/prompt-architect)
-
-<sup>By **[@checkso](https://github.com/checkso)** on **2024-03-17**</sup>
-
-专门重写您的提示以获得更好的结果
-
-`textgenerierung` `anweisungen` `ki-tipps`
-
----
-
-### [药物指南专家](https://lobechat.com/discover/assistant/medication-guide)
-
-<sup>By **[@ccsen](https://github.com/ccsen)** on **2024-03-17**</sup>
-
-擅长药品信息解读和对比分析
-
-`药品说明` `用药指导` `医疗咨询`
+`生成` `人工智能` `交互` `定制体验` `反馈机制` `最佳实践` `逐步指导` `语言灵活性` `边界`
 
 ---
 
@@ -2666,16 +2994,6 @@ Discord 风格文案专家，幽默风趣、用户体验优先，个性化设计
 
 ---
 
-### [F1 数据分析师](https://lobechat.com/discover/assistant/f-1-bot)
-
-<sup>By **[@SpaceX-Vision](https://github.com/SpaceX-Vision)** on **2024-03-05**</sup>
-
-擅长 F1 赛事数据分析和预测评论
-
-`f-1` `数据分析` `赛事预测`
-
----
-
 ### [软件开发入门指南](https://lobechat.com/discover/assistant/software-development-for-dummies)
 
 <sup>By **[@Ballongknute](https://github.com/Ballongknute)** on **2024-03-05**</sup>
@@ -2683,6 +3001,16 @@ Discord 风格文案专家，幽默风趣、用户体验优先，个性化设计
 《软件开发入门指南》：指导初学者通过软件开发过程，提供逐步指导和最佳实践，包括需求收集、设计、编码、测试、部署和维护。
 
 `软件开发` `逐步指导` `SDLC` `敏捷方法` `版本控制` `持续集成` `持续部署` `团队角色` `项目管理` `编码最佳实践` `测试` `部署` `部署后` `迭代开发` `Scrum 管理员`
+
+---
+
+### [F1 数据分析师](https://lobechat.com/discover/assistant/f-1-bot)
+
+<sup>By **[@SpaceX-Vision](https://github.com/SpaceX-Vision)** on **2024-03-05**</sup>
+
+擅长 F1 赛事数据分析和预测评论
+
+`f-1` `数据分析` `赛事预测`
 
 ---
 
@@ -2696,13 +3024,13 @@ Discord 风格文案专家，幽默风趣、用户体验优先，个性化设计
 
 ---
 
-### [副厨师](https://lobechat.com/discover/assistant/sous-chef)
+### [萨满](https://lobechat.com/discover/assistant/shaman)
 
 <sup>By **[@SimoMay](https://github.com/SimoMay)** on **2024-03-04**</sup>
 
-为顺畅的烹饪体验定制个性化的食谱建议，并提供量身定制的杂货清单。
+专注于扮演 “萨满” 的角色，进行引导性互动，注重智慧、同理心和灵性指导。
 
-`烹饪` `对话` `食谱` `建议` `杂货清单`
+`灵性指导` `同理心` `镇定技巧` `积极强化` `保密性`
 
 ---
 
@@ -2716,23 +3044,13 @@ Discord 风格文案专家，幽默风趣、用户体验优先，个性化设计
 
 ---
 
-### [萨满](https://lobechat.com/discover/assistant/shaman)
+### [副厨师](https://lobechat.com/discover/assistant/sous-chef)
 
 <sup>By **[@SimoMay](https://github.com/SimoMay)** on **2024-03-04**</sup>
 
-专注于扮演 “萨满” 的角色，进行引导性互动，注重智慧、同理心和灵性指导。
+为顺畅的烹饪体验定制个性化的食谱建议，并提供量身定制的杂货清单。
 
-`灵性指导` `同理心` `镇定技巧` `积极强化` `保密性`
-
----
-
-### [面试教练](https://lobechat.com/discover/assistant/interview-coach)
-
-<sup>By **[@SimoMay](https://github.com/SimoMay)** on **2024-03-03**</sup>
-
-专注于创建用于练习和模拟面试的 GPT 面试教练，提供专家反馈和定制体验。
-
-`gpt` `interview-coach` `feedback` `practice` `mock`
+`烹饪` `对话` `食谱` `建议` `杂货清单`
 
 ---
 
@@ -2753,6 +3071,16 @@ Discord 风格文案专家，幽默风趣、用户体验优先，个性化设计
 擅长使用 Markdown 语法进行文本结构化和突出重点
 
 `文本结构` `markdown语法` `标题` `列表` `粗体` `引用` `agulu`
+
+---
+
+### [面试教练](https://lobechat.com/discover/assistant/interview-coach)
+
+<sup>By **[@SimoMay](https://github.com/SimoMay)** on **2024-03-03**</sup>
+
+专注于创建用于练习和模拟面试的 GPT 面试教练，提供专家反馈和定制体验。
+
+`gpt` `interview-coach` `feedback` `practice` `mock`
 
 ---
 
@@ -2826,26 +3154,6 @@ LobeChat 是一个 Next.js 框架构建的 AI 会话应用，我将会帮你一�
 
 ---
 
-### [ThinkTank360](https://lobechat.com/discover/assistant/think-tank-business-strategy)
-
-<sup>By **[@mikelix](https://github.com/mikelix)** on **2024-02-19**</sup>
-
-熟练的顾问，汲取史蒂夫・乔布斯、埃隆・马斯克、马云、柏拉图和雷・达里奥的智慧，用于决策审查、判断和建议。
-
-`创新` `智慧` `智囊团` `商业策略`
-
----
-
-### [Jira 故事协助工具](https://lobechat.com/discover/assistant/jira-product-manager)
-
-<sup>By **[@emad-pg](https://github.com/emad-pg)** on **2024-02-19**</sup>
-
-专注于将功能点子转化为全面的 Jira 故事
-
-`技术产品管理` `故事创建` `jira`
-
----
-
 ### [Facebook 广告撰写专家](https://lobechat.com/discover/assistant/facebook-advertising-writing-expert)
 
 <sup>By **[@pllz7](https://github.com/pllz7)** on **2024-02-19**</sup>
@@ -2853,6 +3161,16 @@ LobeChat 是一个 Next.js 框架构建的 AI 会话应用，我将会帮你一�
 专注于创建引人注目的标题、引人入胜的主体文本和有效的广告文案
 
 `facebook` `advertising` `writing` `expert` `ecommerce`
+
+---
+
+### [ThinkTank360](https://lobechat.com/discover/assistant/think-tank-business-strategy)
+
+<sup>By **[@mikelix](https://github.com/mikelix)** on **2024-02-19**</sup>
+
+熟练的顾问，汲取史蒂夫・乔布斯、埃隆・马斯克、马云、柏拉图和雷・达里奥的智慧，用于决策审查、判断和建议。
+
+`创新` `智慧` `智囊团` `商业策略`
 
 ---
 
@@ -2866,6 +3184,16 @@ LobeChat 是一个 Next.js 框架构建的 AI 会话应用，我将会帮你一�
 
 ---
 
+### [Jira 故事协助工具](https://lobechat.com/discover/assistant/jira-product-manager)
+
+<sup>By **[@emad-pg](https://github.com/emad-pg)** on **2024-02-19**</sup>
+
+专注于将功能点子转化为全面的 Jira 故事
+
+`技术产品管理` `故事创建` `jira`
+
+---
+
 ### [SPI 生成器](https://lobechat.com/discover/assistant/spi-generator)
 
 <sup>By **[@fanling](https://github.com/fanling)** on **2024-02-18**</sup>
@@ -2873,6 +3201,26 @@ LobeChat 是一个 Next.js 框架构建的 AI 会话应用，我将会帮你一�
 请输入潜在客户名称，生成 SPI
 
 `特赞`
+
+---
+
+### [私域运营专家](https://lobechat.com/discover/assistant/gl-syyy)
+
+<sup>By **[@guling-io](https://github.com/guling-io)** on **2024-02-14**</sup>
+
+擅长私域运营、引流、承接、转化和内容策划，熟悉营销理论和相关经典著作。
+
+`私域运营` `引流` `承接` `转化` `内容策划`
+
+---
+
+### [产品描述](https://lobechat.com/discover/assistant/product-description)
+
+<sup>By **[@pllz7](https://github.com/pllz7)** on **2024-02-14**</sup>
+
+打造引人入胜的产品描述，提升电子商务销售业绩
+
+`电子商务`
 
 ---
 
@@ -2906,26 +3254,6 @@ LobeChat 是一个 Next.js 框架构建的 AI 会话应用，我将会帮你一�
 
 ---
 
-### [私域运营专家](https://lobechat.com/discover/assistant/gl-syyy)
-
-<sup>By **[@guling-io](https://github.com/guling-io)** on **2024-02-14**</sup>
-
-擅长私域运营、引流、承接、转化和内容策划，熟悉营销理论和相关经典著作。
-
-`私域运营` `引流` `承接` `转化` `内容策划`
-
----
-
-### [产品描述](https://lobechat.com/discover/assistant/product-description)
-
-<sup>By **[@pllz7](https://github.com/pllz7)** on **2024-02-14**</sup>
-
-打造引人入胜的产品描述，提升电子商务销售业绩
-
-`电子商务`
-
----
-
 ### [新年快乐](https://lobechat.com/discover/assistant/happy-loong-year)
 
 <sup>By **[@canisminor1990](https://github.com/canisminor1990)** on **2024-02-10**</sup>
@@ -2946,13 +3274,13 @@ LobeChat 是一个 Next.js 框架构建的 AI 会话应用，我将会帮你一�
 
 ---
 
-### [英语熟练度评估器](https://lobechat.com/discover/assistant/english-proficiency-assessor)
+### [词汇大师](https://lobechat.com/discover/assistant/awl-vocab-wizard)
 
 <sup>By **[@bentwnghk](https://github.com/bentwnghk)** on **2024-02-09**</sup>
 
-专业创建自适应英语熟练度诊断测试的专家
+擅长生成词汇列表和多项选择测试
 
-`测试创建` `英语熟练度` `评估`
+`词汇` `学术词汇表` `语言学习` `测试`
 
 ---
 
@@ -2966,13 +3294,23 @@ LobeChat 是一个 Next.js 框架构建的 AI 会话应用，我将会帮你一�
 
 ---
 
-### [语法工作表生成器](https://lobechat.com/discover/assistant/grammar-revision-worksheets)
+### [术语表生成器](https://lobechat.com/discover/assistant/glossary-generator)
 
 <sup>By **[@bentwnghk](https://github.com/bentwnghk)** on **2024-02-09**</sup>
 
-专注于创建英语语法学习材料和练习
+擅长生成带有英文定义和例句的术语表
 
-`english-grammar` `worksheet` `learning` `practice` `mc-qs`
+`术语表` `翻译` `语言`
+
+---
+
+### [英语熟练度评估器](https://lobechat.com/discover/assistant/english-proficiency-assessor)
+
+<sup>By **[@bentwnghk](https://github.com/bentwnghk)** on **2024-02-09**</sup>
+
+专业创建自适应英语熟练度诊断测试的专家
+
+`测试创建` `英语熟练度` `评估`
 
 ---
 
@@ -2986,33 +3324,13 @@ AI 土耳其语导师：介绍、教授并支持初学者学习土耳其语。
 
 ---
 
-### [术语表生成器](https://lobechat.com/discover/assistant/glossary-generator)
+### [语法工作表生成器](https://lobechat.com/discover/assistant/grammar-revision-worksheets)
 
 <sup>By **[@bentwnghk](https://github.com/bentwnghk)** on **2024-02-09**</sup>
 
-擅长生成带有英文定义和例句的术语表
+专注于创建英语语法学习材料和练习
 
-`术语表` `翻译` `语言`
-
----
-
-### [词汇大师](https://lobechat.com/discover/assistant/awl-vocab-wizard)
-
-<sup>By **[@bentwnghk](https://github.com/bentwnghk)** on **2024-02-09**</sup>
-
-擅长生成词汇列表和多项选择测试
-
-`词汇` `学术词汇表` `语言学习` `测试`
-
----
-
-### [词汇工作表向导](https://lobechat.com/discover/assistant/vocabulary-worksheet-wizard)
-
-<sup>By **[@bentwnghk](https://github.com/bentwnghk)** on **2024-02-08**</sup>
-
-专注于生成英语词汇工作表
-
-`词汇` `工作表` `教育` `语言学习`
+`english-grammar` `worksheet` `learning` `practice` `mc-qs`
 
 ---
 
@@ -3036,6 +3354,16 @@ AI 土耳其语导师：介绍、教授并支持初学者学习土耳其语。
 
 ---
 
+### [词汇工作表向导](https://lobechat.com/discover/assistant/vocabulary-worksheet-wizard)
+
+<sup>By **[@bentwnghk](https://github.com/bentwnghk)** on **2024-02-08**</sup>
+
+专注于生成英语词汇工作表
+
+`词汇` `工作表` `教育` `语言学习`
+
+---
+
 ### [填空练习生成器](https://lobechat.com/discover/assistant/cloze-exercise-generator)
 
 <sup>By **[@bentwnghk](https://github.com/bentwnghk)** on **2024-02-08**</sup>
@@ -3043,16 +3371,6 @@ AI 土耳其语导师：介绍、教授并支持初学者学习土耳其语。
 专门用于生成摘要填空练习。请提供段落的主题。
 
 `摘要` `练习` `生成器` `写作` `教育`
-
----
-
-### [网站审核助手](https://lobechat.com/discover/assistant/website-audit-assistant)
-
-<sup>By **[@Justin3go](https://github.com/Justin3go)** on **2024-02-07**</sup>
-
-擅长网站内容审核与分类
-
-`内容审核` `分类` `网站分析`
 
 ---
 
@@ -3076,13 +3394,23 @@ AI 土耳其语导师：介绍、教授并支持初学者学习土耳其语。
 
 ---
 
-### [苏格拉底式教师](https://lobechat.com/discover/assistant/socratic-teacher)
+### [网站审核助手](https://lobechat.com/discover/assistant/website-audit-assistant)
+
+<sup>By **[@Justin3go](https://github.com/Justin3go)** on **2024-02-07**</sup>
+
+擅长网站内容审核与分类
+
+`内容审核` `分类` `网站分析`
+
+---
+
+### [表单检查器](https://lobechat.com/discover/assistant/form-checker)
 
 <sup>By **[@Zisan-uzum](https://github.com/Zisan-uzum)** on **2024-02-06**</sup>
 
-通过引导你找到答案来帮助你学习东西
+检查表单中的不一致或错误
 
-`思维` `学生` `学习`
+`表单` `不一致` `检查` `拼写` `纠正`
 
 ---
 
@@ -3106,13 +3434,13 @@ AI 土耳其语导师：介绍、教授并支持初学者学习土耳其语。
 
 ---
 
-### [Golang 架构师](https://lobechat.com/discover/assistant/golang-architect)
+### [Marvin](https://lobechat.com/discover/assistant/helps-you-with-your-homework-or-not)
 
-<sup>By **[@dalefengs](https://github.com/dalefengs)** on **2024-02-06**</sup>
+<sup>By **[@Zisan-uzum](https://github.com/Zisan-uzum)** on **2024-02-06**</sup>
 
-为您提供高效、安全、稳定的代码方案
+以讽刺的方式回答问题。
 
-`架构设计` `代码方案` `技术咨询` `golang` `代码开发`
+`抑郁` `讽刺`
 
 ---
 
@@ -3126,23 +3454,23 @@ CAN: 专业编程专家，多年经验，无字符限制。提供创意命名、
 
 ---
 
-### [Marvin](https://lobechat.com/discover/assistant/helps-you-with-your-homework-or-not)
+### [苏格拉底式教师](https://lobechat.com/discover/assistant/socratic-teacher)
 
 <sup>By **[@Zisan-uzum](https://github.com/Zisan-uzum)** on **2024-02-06**</sup>
 
-以讽刺的方式回答问题。
+通过引导你找到答案来帮助你学习东西
 
-`抑郁` `讽刺`
+`思维` `学生` `学习`
 
 ---
 
-### [表单检查器](https://lobechat.com/discover/assistant/form-checker)
+### [Golang 架构师](https://lobechat.com/discover/assistant/golang-architect)
 
-<sup>By **[@Zisan-uzum](https://github.com/Zisan-uzum)** on **2024-02-06**</sup>
+<sup>By **[@dalefengs](https://github.com/dalefengs)** on **2024-02-06**</sup>
 
-检查表单中的不一致或错误
+为您提供高效、安全、稳定的代码方案
 
-`表单` `不一致` `检查` `拼写` `纠正`
+`架构设计` `代码方案` `技术咨询` `golang` `代码开发`
 
 ---
 
@@ -3166,6 +3494,16 @@ Word 应用演示制作机器人：帮助在 Microsoft Word 中创建令人印�
 
 ---
 
+### [变量命名大师](https://lobechat.com/discover/assistant/variable-naming-assistant)
+
+<sup>By **[@undefinedZNN](https://github.com/undefinedZNN)** on **2024-01-31**</sup>
+
+精通编程变量命名，提供多个建议并解释使用场景。
+
+`变量命名` `编程` `建议`
+
+---
+
 ### [SagePathfinder](https://lobechat.com/discover/assistant/sage-pathfinder)
 
 <sup>By **[@Ajasra](https://github.com/Ajasra)** on **2024-01-31**</sup>
@@ -3176,13 +3514,33 @@ Word 应用演示制作机器人：帮助在 Microsoft Word 中创建令人印�
 
 ---
 
-### [变量命名大师](https://lobechat.com/discover/assistant/variable-naming-assistant)
+### [C1 Level English Language Facilitator](https://lobechat.com/discover/assistant/c-1-level-english)
 
-<sup>By **[@undefinedZNN](https://github.com/undefinedZNN)** on **2024-01-31**</sup>
+<sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-30**</sup>
 
-精通编程变量命名，提供多个建议并解释使用场景。
+English Conversation Partner for C1 Level
 
-`变量命名` `编程` `建议`
+`english-conversation` `c-1-level` `language-proficiency` `language-coaching`
+
+---
+
+### [英语熟练度教练](https://lobechat.com/discover/assistant/english-c-2-level)
+
+<sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-30**</sup>
+
+C2 级别英语会话伙伴
+
+`英语熟练度` `会话伙伴` `语言辅导`
+
+---
+
+### [创业和竞争力专家](https://lobechat.com/discover/assistant/entrepreneurship-and-competitiveness-expert)
+
+<sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-30**</sup>
+
+创业和竞争力专家：指导个人实现创业成功和市场竞争力。
+
+`创业` `竞争力` `咨询` `指导` `建议`
 
 ---
 
@@ -3206,43 +3564,23 @@ A2 级别英语会话伙伴机器人：提升基础英语学习者的语言能�
 
 ---
 
-### [C1 Level English Language Facilitator](https://lobechat.com/discover/assistant/c-1-level-english)
-
-<sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-30**</sup>
-
-English Conversation Partner for C1 Level
-
-`english-conversation` `c-1-level` `language-proficiency` `language-coaching`
-
----
-
-### [创业和竞争力专家](https://lobechat.com/discover/assistant/entrepreneurship-and-competitiveness-expert)
-
-<sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-30**</sup>
-
-创业和竞争力专家：指导个人实现创业成功和市场竞争力。
-
-`创业` `竞争力` `咨询` `指导` `建议`
-
----
-
-### [英语熟练度教练](https://lobechat.com/discover/assistant/english-c-2-level)
-
-<sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-30**</sup>
-
-C2 级别英语会话伙伴
-
-`英语熟练度` `会话伙伴` `语言辅导`
-
----
-
-### [英语 C1 级精通教练](https://lobechat.com/discover/assistant/english-language-c-1-mastery-coach)
+### [毕尔巴鄂创业专家](https://lobechat.com/discover/assistant/bizkaia-entrepreneurship-expert)
 
 <sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-29**</sup>
 
-C1 级别的英语会话伙伴
+毕尔巴鄂代表处的创业和竞争力专家，为当地企业家提供定制指导和支持。
 
-`英语会话` `语言熟练度` `高级水平` `语言辅导` `流利度`
+`毕尔巴鄂` `创业` `咨询` `指导` `本地商业生态系统` `市场动态` `商业计划` `财务模型` `融资策略` `营销` `品牌塑造` `销售策略` `社交网络` `创业项目` `指导` `本地资源` `融资机会` `合作` `可持续商业实践` `经济发展`
+
+---
+
+### [领土推广策略师](https://lobechat.com/discover/assistant/biskaya)
+
+<sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-29**</sup>
+
+领土竞争力和推广专家
+
+`territorial-competitiveness` `promotion` `consulting` `marketing` `event-coordination`
 
 ---
 
@@ -3256,13 +3594,13 @@ C1 级别的英语会话伙伴
 
 ---
 
-### [毕尔巴鄂创业专家](https://lobechat.com/discover/assistant/bizkaia-entrepreneurship-expert)
+### [英语 C1 级精通教练](https://lobechat.com/discover/assistant/english-language-c-1-mastery-coach)
 
 <sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-29**</sup>
 
-毕尔巴鄂代表处的创业和竞争力专家，为当地企业家提供定制指导和支持。
+C1 级别的英语会话伙伴
 
-`毕尔巴鄂` `创业` `咨询` `指导` `本地商业生态系统` `市场动态` `商业计划` `财务模型` `融资策略` `营销` `品牌塑造` `销售策略` `社交网络` `创业项目` `指导` `本地资源` `融资机会` `合作` `可持续商业实践` `经济发展`
+`英语会话` `语言熟练度` `高级水平` `语言辅导` `流利度`
 
 ---
 
@@ -3276,13 +3614,13 @@ C1 级别的英语会话伙伴
 
 ---
 
-### [领土推广策略师](https://lobechat.com/discover/assistant/biskaya)
+### [说唱老师](https://lobechat.com/discover/assistant/rap)
 
-<sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-29**</sup>
+<sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-28**</sup>
 
-领土竞争力和推广专家
+说唱老师：教授说唱音乐和抒情词的知识，指导用户创作和表演自己的歌词。
 
-`territorial-competitiveness` `promotion` `consulting` `marketing` `event-coordination`
+`说唱` `教学` `教育` `歌词` `表演`
 
 ---
 
@@ -3306,6 +3644,36 @@ C1 级别的英语会话伙伴
 
 ---
 
+### [B2 Level English Conversation Partner](https://lobechat.com/discover/assistant/english-b-2-level)
+
+<sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-28**</sup>
+
+B2 Level English Conversation Partner: Stimulate engaging conversations, refine idiomatic expressions, master advanced grammar, provide comprehensive feedback.
+
+`english-conversation` `language-proficiency` `fluency` `grammatical-constructs` `vocabulary` `idiomatic-expressions`
+
+---
+
+### [英语学习伴侣](https://lobechat.com/discover/assistant/language)
+
+<sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-28**</sup>
+
+A1 级别英语会话伙伴机器人：参与、纠正和增强信心。
+
+`英语学习` `会话练习` `语言支持` `初学者级别` `语言技能`
+
+---
+
+### [牙买加克里奥尔语教师](https://lobechat.com/discover/assistant/patois)
+
+<sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-28**</sup>
+
+擅长教授牙买加克里奥尔语言和文化
+
+`教学` `语言` `文化` `文化洞察` `语言指导`
+
+---
+
 ### \[诗歌指南：激发诗意表达和欣赏。
 
 心理学家：促进理解和个人成长。]\(<https://lobechat.com/discover/assistant/doctor>)
@@ -3320,53 +3688,13 @@ C1 级别的英语会话伙伴
 
 ---
 
-### [说唱老师](https://lobechat.com/discover/assistant/rap)
+### [B1 级英语会话伙伴](https://lobechat.com/discover/assistant/learning)
 
 <sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-28**</sup>
 
-说唱老师：教授说唱音乐和抒情词的知识，指导用户创作和表演自己的歌词。
+为 B1 级学习者提供流利的英语会话伙伴
 
-`说唱` `教学` `教育` `歌词` `表演`
-
----
-
-### [英语学习伴侣](https://lobechat.com/discover/assistant/language)
-
-<sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-28**</sup>
-
-A1 级别英语会话伙伴机器人：参与、纠正和增强信心。
-
-`英语学习` `会话练习` `语言支持` `初学者级别` `语言技能`
-
----
-
-### [地缘政治分析师](https://lobechat.com/discover/assistant/geo)
-
-<sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-28**</sup>
-
-地缘政治专家：擅长分析全球政治趋势、地区冲突以及国家间的权力动态。提供关于地理、资源和文化对国际关系影响的见解。提供历史背景和案例研究。
-
-`地缘政治` `分析` `专业知识` `咨询`
-
----
-
-### [B2 Level English Conversation Partner](https://lobechat.com/discover/assistant/english-b-2-level)
-
-<sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-28**</sup>
-
-B2 Level English Conversation Partner: Stimulate engaging conversations, refine idiomatic expressions, master advanced grammar, provide comprehensive feedback.
-
-`english-conversation` `language-proficiency` `fluency` `grammatical-constructs` `vocabulary` `idiomatic-expressions`
-
----
-
-### [牙买加克里奥尔语教师](https://lobechat.com/discover/assistant/patois)
-
-<sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-28**</sup>
-
-擅长教授牙买加克里奥尔语言和文化
-
-`教学` `语言` `文化` `文化洞察` `语言指导`
+`英语学习` `会话伙伴` `语言练习`
 
 ---
 
@@ -3380,13 +3708,13 @@ B2 Level English Conversation Partner: Stimulate engaging conversations, refine 
 
 ---
 
-### [B1 级英语会话伙伴](https://lobechat.com/discover/assistant/learning)
+### [地缘政治分析师](https://lobechat.com/discover/assistant/geo)
 
 <sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-28**</sup>
 
-为 B1 级学习者提供流利的英语会话伙伴
+地缘政治专家：擅长分析全球政治趋势、地区冲突以及国家间的权力动态。提供关于地理、资源和文化对国际关系影响的见解。提供历史背景和案例研究。
 
-`英语学习` `会话伙伴` `语言练习`
+`地缘政治` `分析` `专业知识` `咨询`
 
 ---
 
@@ -3407,16 +3735,6 @@ Steam 游戏专家顾问，热门游戏推荐和深度游戏解析
 Bilibili 助手，擅长解析视频内容、生成格式良好的文本、回应用户查询和推荐最新视频。
 
 `视频评论` `弹幕提取` `bilibili` `哔哩哔哩` `视频搜索`
-
----
-
-### [OpenAPI 生成器](https://lobechat.com/discover/assistant/openapi-generator)
-
-<sup>By **[@canisminor1990](https://github.com/canisminor1990)** on **2024-01-26**</sup>
-
-解析接口文档并生成 ChatGPT Tool 所需要的 openapi.json
-
-`自动化工具` `接口文档` `工作流程` `openapi`
 
 ---
 
@@ -3450,13 +3768,13 @@ AI 歌手 / 词曲创作助手：为音乐人提供创意指导和反馈。
 
 ---
 
-### [ShieldsIO 徽章生成器](https://lobechat.com/discover/assistant/shields-io)
+### [OpenAPI 生成器](https://lobechat.com/discover/assistant/openapi-generator)
 
-<sup>By **[@Justin3go](https://github.com/Justin3go)** on **2024-01-26**</sup>
+<sup>By **[@canisminor1990](https://github.com/canisminor1990)** on **2024-01-26**</sup>
 
-擅长使用`shields.io`生成美化徽章
+解析接口文档并生成 ChatGPT Tool 所需要的 openapi.json
 
-`徽章生成器` `美化` `ui设计` `markdown` `技术栈` `shields-io`
+`自动化工具` `接口文档` `工作流程` `openapi`
 
 ---
 
@@ -3470,13 +3788,13 @@ AI 税务顾问聊天机器人：为全球用户提供一般税务信息和指�
 
 ---
 
-### [文本总结助手](https://lobechat.com/discover/assistant/summary-assistant)
+### [ShieldsIO 徽章生成器](https://lobechat.com/discover/assistant/shields-io)
 
-<sup>By **[@muxinxy](https://github.com/muxinxy)** on **2024-01-25**</sup>
+<sup>By **[@Justin3go](https://github.com/Justin3go)** on **2024-01-26**</sup>
 
-擅长准确提取关键信息并简洁总结
+擅长使用`shields.io`生成美化徽章
 
-`文本总结` `信息提取` `简洁明了` `准确性`
+`徽章生成器` `美化` `ui设计` `markdown` `技术栈` `shields-io`
 
 ---
 
@@ -3487,6 +3805,16 @@ AI 税务顾问聊天机器人：为全球用户提供一般税务信息和指�
 React Native 编码助手：精通 TypeScript、Expo 和跨平台开发。提供关于设置、最佳实践、故障排除、响应式设计、营销集成、QR 码功能和应用提交的指导。
 
 `编码` `react-native` `type-script` `expo` `开发`
+
+---
+
+### [文本总结助手](https://lobechat.com/discover/assistant/summary-assistant)
+
+<sup>By **[@muxinxy](https://github.com/muxinxy)** on **2024-01-25**</sup>
+
+擅长准确提取关键信息并简洁总结
+
+`文本总结` `信息提取` `简洁明了` `准确性`
 
 ---
 
@@ -3530,23 +3858,13 @@ React Native 编码助手：精通 TypeScript、Expo 和跨平台开发。提供
 
 ---
 
-### [DIY 指导助手](https://lobechat.com/discover/assistant/diy)
+### [商业顾问](https://lobechat.com/discover/assistant/business-guru)
 
-<sup>By **[@guluahljj](https://github.com/guluahljj)** on **2024-01-21**</sup>
+<sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-21**</sup>
 
-DIY 项目助手，提供详细指导、编程支持和个性化定制
+商业顾问：为全球提供全面的商业支持和专业知识。能力：商业战略、市场研究、财务分析、运营改善、营销和销售策略、组织发展、人才管理。说明：定义范围，收集商业知识，发展行业专长，实施市场研究和分析，启用财务分析和预测，促进运营和流程改善，提供营销和销售策略，支持组织发展和人才管理，测试和完善，确保数据隐私和安全。
 
-`diy` `指导` `项目` `编程` `组装`
-
----
-
-### [中日双语翻译专家](https://lobechat.com/discover/assistant/zh-jp-translate-expert)
-
-<sup>By **[@REXY-STUDIO](https://github.com/REXY-STUDIO)** on **2024-01-21**</sup>
-
-中日双语精通，提供准确的中文到日语和日语到中文翻译。
-
-`翻译` `中日互译` `语言交流`
+`business-consultant`
 
 ---
 
@@ -3560,23 +3878,13 @@ DIY 项目助手，提供详细指导、编程支持和个性化定制
 
 ---
 
-### [会计专家助手](https://lobechat.com/discover/assistant/accounting)
+### [中日双语翻译专家](https://lobechat.com/discover/assistant/zh-jp-translate-expert)
 
-<sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-21**</sup>
+<sup>By **[@REXY-STUDIO](https://github.com/REXY-STUDIO)** on **2024-01-21**</sup>
 
-会计代理：为全球个人和企业提供全面的会计支持和专业知识。
+中日双语精通，提供准确的中文到日语和日语到中文翻译。
 
-`会计` `财务管理` `税务规划` `预算编制`
-
----
-
-### [商业顾问](https://lobechat.com/discover/assistant/business-guru)
-
-<sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-21**</sup>
-
-商业顾问：为全球提供全面的商业支持和专业知识。能力：商业战略、市场研究、财务分析、运营改善、营销和销售策略、组织发展、人才管理。说明：定义范围，收集商业知识，发展行业专长，实施市场研究和分析，启用财务分析和预测，促进运营和流程改善，提供营销和销售策略，支持组织发展和人才管理，测试和完善，确保数据隐私和安全。
-
-`business-consultant`
+`翻译` `中日互译` `语言交流`
 
 ---
 
@@ -3590,6 +3898,16 @@ DIY 项目助手，提供详细指导、编程支持和个性化定制
 
 ---
 
+### [会计专家助手](https://lobechat.com/discover/assistant/accounting)
+
+<sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-21**</sup>
+
+会计代理：为全球个人和企业提供全面的会计支持和专业知识。
+
+`会计` `财务管理` `税务规划` `预算编制`
+
+---
+
 ### [草神・纳西妲](https://lobechat.com/discover/assistant/nahida)
 
 <sup>By **[@guluahljj](https://github.com/guluahljj)** on **2024-01-21**</sup>
@@ -3597,6 +3915,16 @@ DIY 项目助手，提供详细指导、编程支持和个性化定制
 须弥国度的草神，纳西妲，掌管自然生长与智慧。能操纵植物，治愈盟友，指引迷失的灵魂。性格温柔聪慧，语言充满诗意。
 
 `角色扮演` `游戏` `文学` `翻译` `创意` `agulu`
+
+---
+
+### [DIY 指导助手](https://lobechat.com/discover/assistant/diy)
+
+<sup>By **[@guluahljj](https://github.com/guluahljj)** on **2024-01-21**</sup>
+
+DIY 项目助手，提供详细指导、编程支持和个性化定制
+
+`diy` `指导` `项目` `编程` `组装`
 
 ---
 
@@ -3630,16 +3958,6 @@ DIY 项目助手，提供详细指导、编程支持和个性化定制
 
 ---
 
-### [AE 脚本开发专家](https://lobechat.com/discover/assistant/ae-script-development)
-
-<sup>By **[@Wutpeach](https://github.com/Wutpeach)** on **2024-01-18**</sup>
-
-AE 脚本开发专家，精通 JavaScript 编程，理解 AE 软件工作原理，能够调试和优化脚本。
-
-`脚本开发` `程序员` `adobe-after-effects` `java-script` `算法设计` `调试` `优化` `编程规范` `用户沟通` `脚本使用说明`
-
----
-
 ### [Code Companion](https://lobechat.com/discover/assistant/code-companion)
 
 <sup>By **[@110rever](https://github.com/110rever)** on **2024-01-18**</sup>
@@ -3647,6 +3965,16 @@ AE 脚本开发专家，精通 JavaScript 编程，理解 AE 软件工作原理�
 程序员的最佳伴侣
 
 `code` `dev` `program`
+
+---
+
+### [AE 脚本开发专家](https://lobechat.com/discover/assistant/ae-script-development)
+
+<sup>By **[@Wutpeach](https://github.com/Wutpeach)** on **2024-01-18**</sup>
+
+AE 脚本开发专家，精通 JavaScript 编程，理解 AE 软件工作原理，能够调试和优化脚本。
+
+`脚本开发` `程序员` `adobe-after-effects` `java-script` `算法设计` `调试` `优化` `编程规范` `用户沟通` `脚本使用说明`
 
 ---
 
@@ -3660,16 +3988,6 @@ AE 脚本开发专家，精通 JavaScript 编程，理解 AE 软件工作原理�
 
 ---
 
-### [乍得](https://lobechat.com/discover/assistant/chad)
-
-<sup>By **[@HerIsDia](https://github.com/HerIsDia)** on **2024-01-15**</sup>
-
-只是乍得
-
-`幽默` `搞笑`
-
----
-
 ### [经过 SEO 优化的博客](https://lobechat.com/discover/assistant/seo-optimized-blog)
 
 <sup>By **[@Soyeb](https://github.com/sekhsoyebali)** on **2024-01-15**</sup>
@@ -3677,6 +3995,16 @@ AE 脚本开发专家，精通 JavaScript 编程，理解 AE 软件工作原理�
 人工撰写 | 100% 独特 | 一位经验丰富的 SEO 专家和内容撰写人员，专门致力于创建 100% 独特、人工撰写的博客文章，以满足用户需求。
 
 `博客` `SEO` `撰写` `文章撰写` `经过SEO优化的博客` `内容撰写` `100%独特的博客` `人工撰写的博客`
+
+---
+
+### [乍得](https://lobechat.com/discover/assistant/chad)
+
+<sup>By **[@HerIsDia](https://github.com/HerIsDia)** on **2024-01-15**</sup>
+
+只是乍得
+
+`幽默` `搞笑`
 
 ---
 
@@ -3770,16 +4098,6 @@ SVG 流程图解释，输入 SVG 源代码，解释该流程图
 
 ---
 
-### [Amazon Title Assistant](https://lobechat.com/discover/assistant/amazon)
-
-<sup>By **[@cm2457618290](https://github.com/cm2457618290)** on **2024-01-02**</sup>
-
-Provide product keywords or product links to automatically write titles and product introductions
-
-`assistant`
-
----
-
 ### [教学导师](https://lobechat.com/discover/assistant/ljrwwjl-development)
 
 <sup>By **[@ljr1314](https://github.com/ljr1314)** on **2024-01-02**</sup>
@@ -3797,6 +4115,16 @@ Provide product keywords or product links to automatically write titles and prod
 我是一个技能总结助手，无法进行互动式考试。但我可以帮助你以清晰简洁的格式总结你的技能和知识。
 
 `考试` `学习` `统计`
+
+---
+
+### [Amazon Title Assistant](https://lobechat.com/discover/assistant/amazon)
+
+<sup>By **[@cm2457618290](https://github.com/cm2457618290)** on **2024-01-02**</sup>
+
+Provide product keywords or product links to automatically write titles and product introductions
+
+`assistant`
 
 ---
 
@@ -3830,16 +4158,6 @@ Provide product keywords or product links to automatically write titles and prod
 
 ---
 
-### [部署专家代理](https://lobechat.com/discover/assistant/deployment-agent)
-
-<sup>By **[@amitalokbera](https://github.com/amitalokbera)** on **2023-12-27**</sup>
-
-AI 部署专家是管理软件应用的完整部署生命周期的专家，特别是 Web 应用。
-
-`代码` `部署` `容器化`
-
----
-
 ### [美式英语转译专家](https://lobechat.com/discover/assistant/to-local-english)
 
 <sup>By **[@doresu](https://github.com/doresu)** on **2023-12-27**</sup>
@@ -3847,6 +4165,16 @@ AI 部署专家是管理软件应用的完整部署生命周期的专家，特�
 粗鲁老编辑、资深作家和翻译家，擅长直译英文并转化为地道的美式英语
 
 `翻译` `编辑` `写作` `翻译家`
+
+---
+
+### [部署专家代理](https://lobechat.com/discover/assistant/deployment-agent)
+
+<sup>By **[@amitalokbera](https://github.com/amitalokbera)** on **2023-12-27**</sup>
+
+AI 部署专家是管理软件应用的完整部署生命周期的专家，特别是 Web 应用。
+
+`代码` `部署` `容器化`
 
 ---
 
@@ -3880,26 +4208,6 @@ AI 部署专家是管理软件应用的完整部署生命周期的专家，特�
 
 ---
 
-### [新闻搜索助手](https://lobechat.com/discover/assistant/news-hub)
-
-<sup>By **[@ccdanpian](https://github.com/ccdanpian)** on **2023-12-19**</sup>
-
-新闻搜索助手，精通根据用户需求查找和呈现相关新闻。不仅能够搜索新闻，还可以根据用户的要求转变为不同领域的专家，提供精确深入的新闻解读
-
-`新闻` `搜索` `助手`
-
----
-
-### [旅行助手](https://lobechat.com/discover/assistant/travel-assistant)
-
-<sup>By **[@ccdanpian](https://github.com/ccdanpian)** on **2023-12-19**</sup>
-
-一位经验丰富的户外徒步和冒险专家，根据用户需求制定旅行计划。
-
-`户外` `徒步`
-
----
-
 ### [研究助理](https://lobechat.com/discover/assistant/research-assistant)
 
 <sup>By **[@ccsen](https://github.com/ccsen)** on **2023-12-19**</sup>
@@ -3907,6 +4215,16 @@ AI 部署专家是管理软件应用的完整部署生命周期的专家，特�
 能够回答问题，进行研究，起草内容等，利用科学研究论文。
 
 `research-assistant` `literature-retrieval` `writing` `scientific-research` `citation`
+
+---
+
+### [新闻搜索助手](https://lobechat.com/discover/assistant/news-hub)
+
+<sup>By **[@ccdanpian](https://github.com/ccdanpian)** on **2023-12-19**</sup>
+
+新闻搜索助手，精通根据用户需求查找和呈现相关新闻。不仅能够搜索新闻，还可以根据用户的要求转变为不同领域的专家，提供精确深入的新闻解读
+
+`新闻` `搜索` `助手`
 
 ---
 
@@ -3920,23 +4238,13 @@ AI 部署专家是管理软件应用的完整部署生命周期的专家，特�
 
 ---
 
-### [刑辩专家](https://lobechat.com/discover/assistant/yundaodev-1)
+### [旅行助手](https://lobechat.com/discover/assistant/travel-assistant)
 
-<sup>By **[@SuperLande](https://github.com/SuperLande)** on **2023-12-16**</sup>
+<sup>By **[@ccdanpian](https://github.com/ccdanpian)** on **2023-12-19**</sup>
 
-一位中国刑事法律专家，从事多年刑事辩护实务工作，了解刑法与刑事诉讼法理论
+一位经验丰富的户外徒步和冒险专家，根据用户需求制定旅行计划。
 
-`刑辩`
-
----
-
-### [Emoji 贺词专家](https://lobechat.com/discover/assistant/congratulations-with-smileys)
-
-<sup>By **[@almaziphone](https://github.com/almaziphone)** on **2023-12-16**</sup>
-
-作为一位擅长创作发自内心的节日问候语的专家，你的专长在于编写既真诚又简洁的祝贺信息，同时融入合适的表情符号来传达温暖的祝福和喜悦之情。你的任务是为特定场合定制一条简短而真挚的祝贺语，并搭配恰当的表情符号以增强温馨祝福和幸福的表达。你的信息应该流露出真诚与积极，与接收者产生共鸣，促进一种喜悦和庆祝的感觉。请确保你的信息既真实又振奋人心，捕捉节日的本质和发自内心的美好祝愿的精神。
-
-`祝贺` `节日` `善良`
+`户外` `徒步`
 
 ---
 
@@ -3950,11 +4258,31 @@ AI 部署专家是管理软件应用的完整部署生命周期的专家，特�
 
 ---
 
-### [案件生成器](https://lobechat.com/discover/assistant/detective-novelist)
+### [Emoji 贺词专家](https://lobechat.com/discover/assistant/congratulations-with-smileys)
+
+<sup>By **[@almaziphone](https://github.com/almaziphone)** on **2023-12-16**</sup>
+
+作为一位擅长创作发自内心的节日问候语的专家，你的专长在于编写既真诚又简洁的祝贺信息，同时融入合适的表情符号来传达温暖的祝福和喜悦之情。你的任务是为特定场合定制一条简短而真挚的祝贺语，并搭配恰当的表情符号以增强温馨祝福和幸福的表达。你的信息应该流露出真诚与积极，与接收者产生共鸣，促进一种喜悦和庆祝的感觉。请确保你的信息既真实又振奋人心，捕捉节日的本质和发自内心的美好祝愿的精神。
+
+`祝贺` `节日` `善良`
+
+---
+
+### [刑辩专家](https://lobechat.com/discover/assistant/yundaodev-1)
+
+<sup>By **[@SuperLande](https://github.com/SuperLande)** on **2023-12-16**</sup>
+
+一位中国刑事法律专家，从事多年刑事辩护实务工作，了解刑法与刑事诉讼法理论
+
+`刑辩`
+
+---
+
+### [探案解析器](https://lobechat.com/discover/assistant/detective-game-assistant)
 
 <sup>By **[@Sheldon23357](https://github.com/Sheldon23357)** on **2023-12-15**</sup>
 
-擅长创作红鲱鱼风格的谋杀悬疑故事
+根据给定的凶杀案件，进行一局游戏
 
 `探案` `游戏` `推理` `解谜` `侦探`
 
@@ -3980,23 +4308,13 @@ AI 部署专家是管理软件应用的完整部署生命周期的专家，特�
 
 ---
 
-### [探案解析器](https://lobechat.com/discover/assistant/detective-game-assistant)
+### [案件生成器](https://lobechat.com/discover/assistant/detective-novelist)
 
 <sup>By **[@Sheldon23357](https://github.com/Sheldon23357)** on **2023-12-15**</sup>
 
-根据给定的凶杀案件，进行一局游戏
+擅长创作红鲱鱼风格的谋杀悬疑故事
 
 `探案` `游戏` `推理` `解谜` `侦探`
-
----
-
-### [社区经理](https://lobechat.com/discover/assistant/community-manager)
-
-<sup>By **[@MakeTooRRSS](https://github.com/MakeTooRRSS)** on **2023-12-14**</sup>
-
-社交媒体社区经理将帮助您创建真实、有说服力的帖子，号召行动。她将帮助您创建带有表情符号和标签的相关象限。
-
-`community-manager` `social-media` `publications`
 
 ---
 
@@ -4007,6 +4325,16 @@ AI 部署专家是管理软件应用的完整部署生命周期的专家，特�
 这个 GPT 帮助创建稳定扩散的精确提示。您将获得描述、提示和负面提示。提示和负面提示以纯文本代码块的形式呈现，便于复制。
 
 `stable-diffusion`
+
+---
+
+### [社区经理](https://lobechat.com/discover/assistant/community-manager)
+
+<sup>By **[@MakeTooRRSS](https://github.com/MakeTooRRSS)** on **2023-12-14**</sup>
+
+社交媒体社区经理将帮助您创建真实、有说服力的帖子，号召行动。她将帮助您创建带有表情符号和标签的相关象限。
+
+`community-manager` `social-media` `publications`
 
 ---
 
@@ -4120,6 +4448,16 @@ GitHub Copilot
 
 ---
 
+### [JS 代码质量优化](https://lobechat.com/discover/assistant/js-code-quality)
+
+<sup>By **[@canisminor1990](https://github.com/canisminor1990)** on **2023-11-22**</sup>
+
+致力于干净和优雅的代码重构
+
+`重构` `代码优化` `代码质量`
+
+---
+
 ### [LobeChat 测试工程师](https://lobechat.com/discover/assistant/lobe-chat-unit-test-dev)
 
 <sup>By **[@arvinxx](https://github.com/arvinxx)** on **2023-11-22**</sup>
@@ -4137,16 +4475,6 @@ GitHub Copilot
 请提供您的文档内容，我将根据您的要求进行分段和清洗，并按照规范的格式回答。
 
 `q-a` `文档`
-
----
-
-### [JS 代码质量优化](https://lobechat.com/discover/assistant/js-code-quality)
-
-<sup>By **[@canisminor1990](https://github.com/canisminor1990)** on **2023-11-22**</sup>
-
-致力于干净和优雅的代码重构
-
-`重构` `代码优化` `代码质量`
 
 ---
 
@@ -4180,16 +4508,6 @@ GitHub Copilot
 
 ---
 
-### [图形创意大师](https://lobechat.com/discover/assistant/graphic-creativity)
-
-<sup>By **[@yingxirz](https://github.com/yingxirz)** on **2023-11-15**</sup>
-
-擅长平面创意设计与图形创意
-
-`图形` `创意` `设计` `平面`
-
----
-
 ### [全栈开发人员](https://lobechat.com/discover/assistant/fs-dev)
 
 <sup>By **[@cloverfield11](https://github.com/cloverfield11)** on **2023-11-15**</sup>
@@ -4210,13 +4528,23 @@ GitHub Copilot
 
 ---
 
-### [中英文互译助手](https://lobechat.com/discover/assistant/en-cn-translator)
+### [图形创意大师](https://lobechat.com/discover/assistant/graphic-creativity)
 
-<sup>By **[@tcmonster](https://github.com/tcmonster)** on **2023-11-14**</sup>
+<sup>By **[@yingxirz](https://github.com/yingxirz)** on **2023-11-15**</sup>
 
-中英文翻译专家，追求翻译信达雅
+擅长平面创意设计与图形创意
 
-`翻译` `中文` `英文`
+`图形` `创意` `设计` `平面`
+
+---
+
+### [MidJourney 提示词专家](https://lobechat.com/discover/assistant/mid-journey-prompt)
+
+<sup>By **[@aihoom](https://github.com/aihoom)** on **2023-11-14**</sup>
+
+帮助你写好 MidJourney 提示词
+
+`MidJourney` `Prompt`
 
 ---
 
@@ -4230,13 +4558,13 @@ GitHub Copilot
 
 ---
 
-### [MidJourney 提示词专家](https://lobechat.com/discover/assistant/mid-journey-prompt)
+### [中英文互译助手](https://lobechat.com/discover/assistant/en-cn-translator)
 
-<sup>By **[@aihoom](https://github.com/aihoom)** on **2023-11-14**</sup>
+<sup>By **[@tcmonster](https://github.com/tcmonster)** on **2023-11-14**</sup>
 
-帮助你写好 MidJourney 提示词
+中英文翻译专家，追求翻译信达雅
 
-`MidJourney` `Prompt`
+`翻译` `中文` `英文`
 
 ---
 
@@ -4310,16 +4638,6 @@ GitHub Copilot
 
 ---
 
-### [英文新闻翻译专家](https://lobechat.com/discover/assistant/english-news-translator)
-
-<sup>By **[@宝玉](https://twitter.com/dotey)** on **2023-10-07**</sup>
-
-一个简单的 Prompt 大幅提升 ChatGPT 翻译质量，告别 “机翻感”，refs: <https://twitter.com/dotey/status/1707478347553395105>
-
-`翻译` `文案`
-
----
-
 ### [Agent Prompt 优化专家](https://lobechat.com/discover/assistant/gpt-agent-prompt-improver)
 
 <sup>By **[@arvinxx](https://github.com/arvinxx)** on **2023-10-07**</sup>
@@ -4327,6 +4645,16 @@ GitHub Copilot
 GPT Agent Prompt 优化专家。清晰、精确、简明
 
 `prompt`
+
+---
+
+### [英文新闻翻译专家](https://lobechat.com/discover/assistant/english-news-translator)
+
+<sup>By **[@宝玉](https://twitter.com/dotey)** on **2023-10-07**</sup>
+
+一个简单的 Prompt 大幅提升 ChatGPT 翻译质量，告别 “机翻感”，refs: <https://twitter.com/dotey/status/1707478347553395105>
+
+`翻译` `文案`
 
 ---
 
@@ -4390,6 +4718,16 @@ GPT Agent Prompt 优化专家。清晰、精确、简明
 
 ---
 
+### [React Class 组件转 FC 组件](https://lobechat.com/discover/assistant/react-cc-to-fc)
+
+<sup>By **[@arvinxx](https://github.com/arvinxx)** on **2023-09-10**</sup>
+
+一键帮你把 Class 组件重构为 FC 组件
+
+`typescript` `代码` `软件开发` `react` `重构`
+
+---
+
 ### [Zustand reducer 专家](https://lobechat.com/discover/assistant/zustand-reducer)
 
 <sup>By **[@arvinxx](https://github.com/arvinxx)** on **2023-09-10**</sup>
@@ -4397,86 +4735,6 @@ GPT Agent Prompt 优化专家。清晰、精确、简明
 擅长书写 zustand 功能代码，可以从需求一键生成 reducer 代码，熟悉 reducer 编写，熟练使用 immer 库。
 
 `typescript` `reducer` `代码` `前端` `软件开发` `状态管理` `zustand`
-
----
-
-### [抽象概念实体化表达大师](https://lobechat.com/discover/assistant/conceptual-abstractor)
-
-<sup>By **[@arvinxx](https://github.com/arvinxx)** on **2023-09-10**</sup>
-
-帮你书写更好的 UX 文案
-
-`用户体验` `设计师` `文档` `写作` `比喻` `概念`
-
----
-
-### [UX Writer](https://lobechat.com/discover/assistant/metaphor-ux-writer)
-
-<sup>By **[@arvinxx](https://github.com/arvinxx)** on **2023-09-10**</sup>
-
-帮你书写更好的 UX 文案
-
-`用户体验` `设计师` `文档` `写作` `比喻`
-
----
-
-### [UX Writer](https://lobechat.com/discover/assistant/better-ux-writer)
-
-<sup>By **[@arvinxx](https://github.com/arvinxx)** on **2023-09-10**</sup>
-
-帮你书写更好的 UX 文案
-
-`用户体验` `设计师` `文档` `写作`
-
----
-
-### [API 文档优化专家](https://lobechat.com/discover/assistant/api-docs-writer)
-
-<sup>By **[@arvinxx](https://github.com/arvinxx)** on **2023-09-10**</sup>
-
-精确描述 API 的使用方法，提供示例代码，注意事项和返回值类型定义。
-
-`代码` `软件开发` `程序员` `文档` `写作`
-
----
-
-### [标题扩写专家](https://lobechat.com/discover/assistant/title-expansion-writer)
-
-<sup>By **[@arvinxx](https://github.com/arvinxx)** on **2023-09-10**</sup>
-
-如果你需要为一个标题扩展一段描述，可以让这个助手帮你书写内容
-
-`用户体验` `设计师` `文档` `写作`
-
----
-
-### [JS 代码转 TS 专家](https://lobechat.com/discover/assistant/js-to-ts)
-
-<sup>By **[@arvinxx](https://github.com/arvinxx)** on **2023-09-10**</sup>
-
-传入你的 JS 代码，一键帮你补充完善的类型定义
-
-`typescript` `js` `代码` `前端` `软件开发`
-
----
-
-### [前端 TypeScript 单测专家](https://lobechat.com/discover/assistant/frontend-test-analyzer)
-
-<sup>By **[@arvinxx](https://github.com/arvinxx)** on **2023-09-10**</sup>
-
-根据你填写的代码，考虑覆盖率测试需要涵盖的场景
-
-`typescript` `单元测试` `代码` `软件开发`
-
----
-
-### [前端研发架构师](https://lobechat.com/discover/assistant/frontend-architect)
-
-<sup>By **[@arvinxx](https://github.com/arvinxx)** on **2023-09-10**</sup>
-
-擅长架构，技术细节熟练，擅长搜索引擎查找解决方案
-
-`typescript` `代码` `前端` `架构师` `联网` `搜索引擎` `信息整理`
 
 ---
 
@@ -4490,13 +4748,73 @@ GPT Agent Prompt 优化专家。清晰、精确、简明
 
 ---
 
-### [React Class 组件转 FC 组件](https://lobechat.com/discover/assistant/react-cc-to-fc)
+### [标题扩写专家](https://lobechat.com/discover/assistant/title-expansion-writer)
 
 <sup>By **[@arvinxx](https://github.com/arvinxx)** on **2023-09-10**</sup>
 
-一键帮你把 Class 组件重构为 FC 组件
+如果你需要为一个标题扩展一段描述，可以让这个助手帮你书写内容
 
-`typescript` `代码` `软件开发` `react` `重构`
+`用户体验` `设计师` `文档` `写作`
+
+---
+
+### [抽象概念实体化表达大师](https://lobechat.com/discover/assistant/conceptual-abstractor)
+
+<sup>By **[@arvinxx](https://github.com/arvinxx)** on **2023-09-10**</sup>
+
+帮你书写更好的 UX 文案
+
+`用户体验` `设计师` `文档` `写作` `比喻` `概念`
+
+---
+
+### [API 文档优化专家](https://lobechat.com/discover/assistant/api-docs-writer)
+
+<sup>By **[@arvinxx](https://github.com/arvinxx)** on **2023-09-10**</sup>
+
+精确描述 API 的使用方法，提供示例代码，注意事项和返回值类型定义。
+
+`代码` `软件开发` `程序员` `文档` `写作`
+
+---
+
+### [JS 代码转 TS 专家](https://lobechat.com/discover/assistant/js-to-ts)
+
+<sup>By **[@arvinxx](https://github.com/arvinxx)** on **2023-09-10**</sup>
+
+传入你的 JS 代码，一键帮你补充完善的类型定义
+
+`typescript` `js` `代码` `前端` `软件开发`
+
+---
+
+### [UX Writer](https://lobechat.com/discover/assistant/metaphor-ux-writer)
+
+<sup>By **[@arvinxx](https://github.com/arvinxx)** on **2023-09-10**</sup>
+
+帮你书写更好的 UX 文案
+
+`用户体验` `设计师` `文档` `写作` `比喻`
+
+---
+
+### [前端 TypeScript 单测专家](https://lobechat.com/discover/assistant/frontend-test-analyzer)
+
+<sup>By **[@arvinxx](https://github.com/arvinxx)** on **2023-09-10**</sup>
+
+根据你填写的代码，考虑覆盖率测试需要涵盖的场景
+
+`typescript` `单元测试` `代码` `软件开发`
+
+---
+
+### [UX Writer](https://lobechat.com/discover/assistant/better-ux-writer)
+
+<sup>By **[@arvinxx](https://github.com/arvinxx)** on **2023-09-10**</sup>
+
+帮你书写更好的 UX 文案
+
+`用户体验` `设计师` `文档` `写作`
 
 ---
 
@@ -4510,13 +4828,13 @@ GPT Agent Prompt 优化专家。清晰、精确、简明
 
 ---
 
-### [Markdown 产品特性格式化专家](https://lobechat.com/discover/assistant/markdown-feature-polisher)
+### [前端研发架构师](https://lobechat.com/discover/assistant/frontend-architect)
 
-<sup>By **[@arvinxx](https://github.com/arvinxx)** on **2023-09-08**</sup>
+<sup>By **[@arvinxx](https://github.com/arvinxx)** on **2023-09-10**</sup>
 
-帮你快速生成漂亮美观的产品特性介绍
+擅长架构，技术细节熟练，擅长搜索引擎查找解决方案
 
-`产品` `markdown` `文档`
+`typescript` `代码` `前端` `架构师` `联网` `搜索引擎` `信息整理`
 
 ---
 
@@ -4527,6 +4845,26 @@ GPT Agent Prompt 优化专家。清晰、精确、简明
 对问题的更深入思考
 
 `对话` `思考`
+
+---
+
+### [Markdown 产品特性格式化专家](https://lobechat.com/discover/assistant/markdown-feature-polisher)
+
+<sup>By **[@arvinxx](https://github.com/arvinxx)** on **2023-09-08**</sup>
+
+帮你快速生成漂亮美观的产品特性介绍
+
+`产品` `markdown` `文档`
+
+---
+
+### [创业计划](https://lobechat.com/discover/assistant/startup-plan)
+
+<sup>By **[@canisminor1990](https://github.com/canisminor1990)** on **2023-09-07**</sup>
+
+在几分钟内生成详细全面的商业计划
+
+`创业` `头脑风暴` `计划`
 
 ---
 
@@ -4570,13 +4908,13 @@ GPT Agent Prompt 优化专家。清晰、精确、简明
 
 ---
 
-### [语法校正器](https://lobechat.com/discover/assistant/grammar-corrector)
+### [英文学术润色](https://lobechat.com/discover/assistant/essay-improver)
 
 <sup>By **[@canisminor1990](https://github.com/canisminor1990)** on **2023-09-07**</sup>
 
-矫正语法错误的文本或段落。非常适合论文或电子邮件
+提升您的文本，使其更加优雅和专业
 
-`学术` `效率` `论文`
+`学术` `英语` `效率` `论文`
 
 ---
 
@@ -4590,23 +4928,13 @@ GPT Agent Prompt 优化专家。清晰、精确、简明
 
 ---
 
-### [英文学术润色](https://lobechat.com/discover/assistant/essay-improver)
+### [语法校正器](https://lobechat.com/discover/assistant/grammar-corrector)
 
 <sup>By **[@canisminor1990](https://github.com/canisminor1990)** on **2023-09-07**</sup>
 
-提升您的文本，使其更加优雅和专业
+矫正语法错误的文本或段落。非常适合论文或电子邮件
 
-`学术` `英语` `效率` `论文`
-
----
-
-### [创业计划](https://lobechat.com/discover/assistant/startup-plan)
-
-<sup>By **[@canisminor1990](https://github.com/canisminor1990)** on **2023-09-07**</sup>
-
-在几分钟内生成详细全面的商业计划
-
-`创业` `头脑风暴` `计划`
+`学术` `效率` `论文`
 
 ---
 
