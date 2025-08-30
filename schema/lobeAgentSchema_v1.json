@@ -25,7 +25,31 @@
         },
         "historyCount": { "type": "number" },
         "inputTemplate": { "type": "string" },
-        "model": { "type": "string", "default": "gpt-3.5-turbo" },
+        "knowledgeBases": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "avatar": { "type": ["string", "null"] },
+              "createdAt": { "type": "string", "format": "date-time" },
+              "description": {
+                "anyOf": [{ "anyOf": [{ "not": {} }, { "type": "string" }] }, { "type": "null" }]
+              },
+              "enabled": { "type": "boolean" },
+              "id": { "type": "string" },
+              "isPublic": { "type": ["boolean", "null"] },
+              "name": { "type": "string" },
+              "settings": {},
+              "type": { "type": ["string", "null"] },
+              "updatedAt": { "type": "string", "format": "date-time" }
+            },
+            "required": ["avatar", "createdAt", "id", "isPublic", "name", "type", "updatedAt"],
+            "additionalProperties": false
+          }
+        },
+        "model": { "type": "string" },
+        "openingMessage": { "type": "string" },
+        "openingQuestions": { "type": "array", "items": { "type": "string" } },
         "params": {
           "type": "object",
           "properties": {
@@ -47,6 +71,7 @@
     "examples": { "$ref": "#/properties/config/properties/fewShots" },
     "homepage": { "type": "string" },
     "identifier": { "type": "string" },
+    "knowledgeCount": { "type": "number" },
     "meta": {
       "type": "object",
       "properties": {
@@ -60,8 +85,22 @@
       "required": ["avatar", "description", "tags", "title"],
       "additionalProperties": false
     },
-    "schemaVersion": { "type": "number" }
+    "pluginCount": { "type": "number" },
+    "schemaVersion": { "type": "number" },
+    "summary": { "type": "string" },
+    "tokenUsage": { "type": "number" }
   },
-  "required": ["author", "config", "createdAt", "homepage", "identifier", "meta", "schemaVersion"],
+  "required": [
+    "author",
+    "config",
+    "createdAt",
+    "homepage",
+    "identifier",
+    "knowledgeCount",
+    "meta",
+    "pluginCount",
+    "schemaVersion",
+    "tokenUsage"
+  ],
   "type": "object"
 }

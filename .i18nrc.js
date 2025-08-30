@@ -1,11 +1,20 @@
 module.exports = {
-  selectors: ['meta.title', 'meta.description', 'meta.tags', 'config.systemRole'],
+  selectors: [
+    'meta.title',
+    'meta.description',
+    'meta.tags',
+    'config.systemRole',
+    'config.openingMessage',
+    'config.openingQuestions',
+    'examples',
+    'summary',
+  ],
   entryLocale: 'en-US',
   outputLocales: [
+    'en-US',
     'ar',
     'bg-BG',
     'zh-TW',
-    'en-US',
     'ru-RU',
     'ja-JP',
     'zh-CN',
@@ -21,6 +30,7 @@ module.exports = {
     'vi-VN',
     'fa-IR',
   ],
-  modelName: 'gpt-4o-mini',
+  modelName: 'gpt-4.1-nano',
   temperature: 0.5,
+  concurrency: 18,
 };
